@@ -18,7 +18,7 @@ Welcome to the central repository for standardized IT project management framewo
 * **Budget Baseline (`GEN-BGT-001`):** OPEX/CAPEX breakdown, contingency reserves, and cost controls ($1,500–$2,500).
 * **Communication Plan (`GEN-COM-001`):** Governance channels, reporting cadence, and information flow matrix.
 * **Quality Management Plan (`GEN-QMP-001`):** Acceptance criteria, QA/QC benchmarks, and usability standards.
-* **Procurement & Legal Suite (`/procurement-templates`):** Industry-standard templates including SOW, NDA, MSA, SLA, and Client Proposal.
+* **Procurement & Legal Suite (`/procurement-templates`):** Industry-standard commercial templates including SOW (`GEN-SOW-001`), NDA (`GEN-NDA-001`), MSA (`GEN-MSA-001`), SLA (`GEN-SLA-001`), and Client Proposal (`GEN-PRP-001`).
 * **Project Kickoff Agenda (`GEN-KOF-001`):** Stakeholder alignment agenda prior to execution.
 
 ### 03. Execution & Agile Workflows (`/03-execution-agile`)
