@@ -4,7 +4,7 @@
 **Project Name:** Project Genesis — Enterprise Operational Infrastructure & Service Workflows Launch  
 **Document Type:** Project Charter  
 **Version:** 1.0  
-**Status:** Approved & Active 
+**Status:** Approved & Active  
 **Project Framework:** Hybrid Project Management  
 **Reference Frameworks:** PMI/PMBOK principles and Agile practices  
 **Planned Duration:** 8 calendar weeks (40 business days, assuming a five-day working week)  
