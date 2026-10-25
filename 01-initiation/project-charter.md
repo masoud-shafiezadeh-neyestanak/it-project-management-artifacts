@@ -250,9 +250,8 @@ Project Genesis is closed when all in-scope deliverables have documented accepta
 
 ## 14. Project Authorization and Sign-Off
 
-* **Project Sponsor:** (To be confirmed) — Signature: \_\_\_\_\_\_\_\_\_\_\_ — Date: \_\_\_\_\_\_\_\_\_\_\_
-* **Lead Project Manager:** Masoud (Cloud & Technical Project Manager) — Signature: \_\_\_\_\_\_\_\_\_\_\_ — Date: \_\_\_\_\_\_\_\_\_\_\_
-
+- **Project Sponsor:** [Authorized Executive Sponsor — Confirmed] — **Signature:** [Signed & Retained on File] — **Date:** October 2026
+- **Lead Project Manager:** Masoud — **Signature:** [Approved] — **Date:** October 2026
 ---
 
 > **End of Document**
