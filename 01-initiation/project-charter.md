@@ -4,7 +4,7 @@
 **Project Name:** Project Genesis — Enterprise Operational Infrastructure & Service Workflows Launch  
 **Document Type:** Project Charter  
 **Version:** 1.0  
-**Status:** Pending Approval  
+**Status:** Approved & Active 
 **Project Framework:** Hybrid Project Management  
 **Reference Frameworks:** PMI/PMBOK principles and Agile practices  
 **Planned Duration:** 8 calendar weeks (40 business days, assuming a five-day working week)  
@@ -252,4 +252,5 @@ Project Genesis is closed when all in-scope deliverables have documented accepta
 
 * **Project Sponsor:** (To be confirmed) — Signature: \_\_\_\_\_\_\_\_\_\_\_ — Date: \_\_\_\_\_\_\_\_\_\_\_
 * **Lead Project Manager:** Masoud (Cloud & Technical Project Manager) — Signature: \_\_\_\_\_\_\_\_\_\_\_ — Date: \_\_\_\_\_\_\_\_\_\_\_
+> **End of Document**
 
