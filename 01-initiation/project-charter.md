@@ -252,5 +252,5 @@ Project Genesis is closed when all in-scope deliverables have documented accepta
 
 * **Project Sponsor:** (To be confirmed) — Signature: \_\_\_\_\_\_\_\_\_\_\_ — Date: \_\_\_\_\_\_\_\_\_\_\_
 * **Lead Project Manager:** Masoud (Cloud & Technical Project Manager) — Signature: \_\_\_\_\_\_\_\_\_\_\_ — Date: \_\_\_\_\_\_\_\_\_\_\_
-> **End of Document**
 
+> **End of Document**
