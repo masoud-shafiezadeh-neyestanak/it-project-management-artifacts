@@ -1,18 +1,22 @@
 # Project Charter — Project Genesis
 
-**Document ID:** GEN-CH-001  
-**Project Name:** Project Genesis — Enterprise Operational Infrastructure & Service Workflows Launch  
-**Document Type:** Project Charter  
-**Version:** 1.0  
-**Status:** Approved & Active  
-**Project Framework:** Hybrid Project Management  
-**Reference Frameworks:** PMI/PMBOK principles and Agile practices  
-**Planned Duration:** 8 calendar weeks (40 business days, assuming a five-day working week)  
-**Planned Start Date:** To be confirmed  
-**Target Completion Date:** To be confirmed  
-**Prepared By:** Masoud — Cloud & Technical Project Manager  
-**Project Location:** Sultanate of Oman  
-**Document Owner:** Lead Project Manager  
+# Project Charter — Project Genesis
+
+| Document Metadata | Details |
+| :--- | :--- |
+| **Document ID** | GEN-CH-001 |
+| **Project Name** | Project Genesis — Enterprise Operational Infrastructure & Service Workflows Launch |
+| **Document Type** | Project Charter |
+| **Version** | 1.0 |
+| **Status** | Approved & Active |
+| **Project Framework** | Hybrid Project Management |
+| **Reference Frameworks** | PMI/PMBOK principles and Agile practices |
+| **Planned Duration** | 8 calendar weeks (40 business days, assuming a five-day working week) |
+| **Planned Start Date** | To be confirmed |
+| **Target Completion Date** | To be confirmed |
+| **Prepared By** | Masoud — Cloud & Technical Project Manager |
+| **Project Location** | Sultanate of Oman |
+| **Document Owner** | Lead Project Manager |
 
 ---
 
