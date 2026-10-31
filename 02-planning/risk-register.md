@@ -548,12 +548,14 @@ Approval of this document does not eliminate the need for ongoing monitoring, mi
 1. Project Management Institute (PMI), *A Guide to the Project Management Body of Knowledge (PMBOK® Guide) — Eighth Edition* (2025):  
    https://www.pmi.org/standards/pmbok
 
-2. Sultanate of Oman, Royal Decree 6/2022, Personal Data Protection Law, as amended by Royal Decree 68/2026.
+2. Google. Google Project Management Professional Certificate. https://www.coursera.org/professional-certificates/google-project-management
 
-3. Oman Ministry of Transport, Communications and Information Technology (MTCIT), Royal Decree 68/2026 — Amending Some Provisions of the Personal Data Protection Law:  
+3. Sultanate of Oman, Royal Decree 6/2022, Personal Data Protection Law, as amended by Royal Decree 68/2026.
+
+4. Oman Ministry of Transport, Communications and Information Technology (MTCIT), Royal Decree 68/2026 — Amending Some Provisions of the Personal Data Protection Law:  
    https://www.mtcit.gov.om/library-3/legislations-policies-8/laws-75/royal-decree-68-2026-amending-some-provisions-of-the-personal-data-protection-law-1481
 
-4. Oman Ministerial Decision 34/2024, Executive Regulation of the Personal Data Protection Law. Its applicability and interaction with subsequent amendments must be confirmed during legal review.
+5. Oman Ministerial Decision 34/2024, Executive Regulation of the Personal Data Protection Law. Its applicability and interaction with subsequent amendments must be confirmed during legal review.
 
 ---
 
