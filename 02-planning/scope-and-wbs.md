@@ -6,7 +6,7 @@
 | **Project Name** | Project Genesis — Enterprise Operational Infrastructure & Service Workflows Launch |
 | **Document Type** | Project Scope Statement, WBS & WBS Dictionary |
 | **Project Location** | Bousher and Barka, Sultanate of Oman |
-| **Reference Framework** | PMI — PMBOK® Guide, Google PM |
+| **Reference Framework** | PMI — PMBOK® Guide, Project Management Framework |
 | **Delivery Approach** | Hybrid Project Management: combined with iterative and Agile delivery practices |
 | **Document Owner** | Lead Project Manager |
 | **Version** | 1.0 |
