@@ -9,8 +9,9 @@
 | **Document Type** | Project Charter |
 | **Version** | 1.0 |
 | **Status** | Approved & Active |
-| **Project Framework** | Hybrid Project Management |
-| **Reference Frameworks** | PMI/PMBOK principles and Agile practices |
+| **Project Management Approach** | Hybrid Project Management — structured governance and approval controls combined with iterative and Agile delivery practices |
+| **Primary Learning Resource** | Google Project Management Professional Certificate (Coursera) |
+| **Methods & Practices Applied** | Project Charter, Stakeholder Analysis, RACI, Scope Management, WBS, Risk Management, Communication Planning, Change Control, and Project Closure |
 | **Planned Duration** | 8 calendar weeks (40 business days, assuming a five-day working week) |
 | **Planned Start Date** | To be confirmed |
 | **Target Completion Date** | To be confirmed |
