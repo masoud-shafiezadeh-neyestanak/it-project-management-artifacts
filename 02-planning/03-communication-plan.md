@@ -6,7 +6,7 @@
 | **Project Name** | Project Genesis — Enterprise Operational Infrastructure & Service Workflows Launch |
 | **Document Type** | Project Communication Management Plan |
 | **Project Location** | Bousher and Barka, Sultanate of Oman |
-| **Reference Standards & Learning Resources** | PMI — PMBOK® Guide, Eighth Edition (2025); Google Project Management Professional Certificate (Coursera) |
+| **Reference Standards & Learning Resources** | PMI — PMBOK® Guide, Google Project Management Framework |
 | **Project Management Approach** | Hybrid Project Management — structured governance combined with iterative and Agile delivery practices |
 | **Document Owner** | Lead Project Manager |
 | **Version** | 1.0 |
