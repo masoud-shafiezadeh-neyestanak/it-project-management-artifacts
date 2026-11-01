@@ -8,7 +8,7 @@
 | **Project Location** | Bousher and Barka, Sultanate of Oman |
 | **Primary Learning Resource** | Google Project Management Professional Certificate (Coursera) |
 | **Project Management Approach** | Hybrid Project Management — structured governance combined with iterative and Agile delivery practices |
-| **Assessment Method** | Qualitative Probability × Impact (P × I) |
+| **Risk Assessment Method** | Qualitative Risk Assessment using a Probability–Impact Matrix (P×I) |
 | **Document Owner** | Lead Project Manager |
 | **Version** | 1.0 |
 | **Status** | Pending Approval |
