@@ -6,7 +6,8 @@
 | **Project Name** | Project Genesis — Enterprise Operational Infrastructure & Service Workflows Launch |
 | **Document Type** | Risk Register |
 | **Project Location** | Bousher and Barka, Sultanate of Oman |
-| **Reference Framework** | PMI — PMBOK® Guide, Google Project Management Framework |
+| **Primary Learning Resource** | Google Project Management Professional Certificate (Coursera) |
+| **Project Management Approach** | Hybrid Project Management — structured governance combined with iterative and Agile delivery practices |
 | **Assessment Method** | Qualitative Probability × Impact (P × I) |
 | **Document Owner** | Lead Project Manager |
 | **Version** | 1.0 |
