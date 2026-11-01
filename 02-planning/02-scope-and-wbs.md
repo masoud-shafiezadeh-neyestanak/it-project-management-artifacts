@@ -6,8 +6,8 @@
 | **Project Name** | Project Genesis — Enterprise Operational Infrastructure & Service Workflows Launch |
 | **Document Type** | Project Scope Statement, WBS & WBS Dictionary |
 | **Project Location** | Bousher and Barka, Sultanate of Oman |
-| **Reference Framework** | PMI — PMBOK® Guide, Google Project Management Framework |
-| **Delivery Approach** | Hybrid Project Management: combined with iterative and Agile delivery practices |
+| **Primary Learning Resource** | Google Project Management Professional Certificate (Coursera) |
+| **Project Management Approach** | Hybrid Project Management — structured governance combined with iterative and Agile delivery practices |
 | **Document Owner** | Lead Project Manager |
 | **Version** | 1.0 |
 | **Status** | Pending Approval |
@@ -450,19 +450,16 @@ Material changes to the approved baseline must follow the project's change-contr
 
 ## 7. Reference Sources
 
-1. **Project Management Institute (PMI).** *A Guide to the Project Management Body of Knowledge (PMBOK® Guide) — Eighth Edition and The Standard for Project Management.*  
-   https://www.pmi.org/standards/pmbok
-
-2. **Google.** Google Project Management Professional Certificate.
+1. **Google.** Google Project Management Professional Certificate.
    https://www.coursera.org/professional-certificates/google-project-management
    
-4. **Sultanate of Oman.** Royal Decree 6/2022, Personal Data Protection Law, as amended by Royal Decree 68/2026, together with applicable executive regulations.  
+2. **Sultanate of Oman.** Royal Decree 6/2022, Personal Data Protection Law, as amended by Royal Decree 68/2026, together with applicable executive regulations.  
    https://www.mtcit.gov.om/ar/3/8/75/1481
 
-5. **Project Document Reference.** Project Charter — Project Genesis, GEN-CH-001.  
+3. **Project Document Reference.** Project Charter — Project Genesis, GEN-CH-001.  
    `01-initiation/project-charter.md`
 
-6. **Project Document Reference.** Risk Register — Project Genesis, GEN-RSK-001.  
+4. **Project Document Reference.** Risk Register — Project Genesis, GEN-RSK-001.  
    `02-planning/risk-register.md`
 
 
