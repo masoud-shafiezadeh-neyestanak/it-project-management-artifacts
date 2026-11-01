@@ -6,7 +6,7 @@
 | **Project Name** | Project Genesis — Enterprise Operational Infrastructure & Service Workflows Launch |
 | **Document Type** | Project Communication Management Plan |
 | **Project Location** | Bousher and Barka, Sultanate of Oman |
-| **Reference Standards & Learning Resources** | PMI — PMBOK® Guide, Google Project Management Framework |
+| **Primary Learning Resource** | Google Project Management Professional Certificate (Coursera) |
 | **Project Management Approach** | Hybrid Project Management — structured governance combined with iterative and Agile delivery practices |
 | **Document Owner** | Lead Project Manager |
 | **Version** | 1.0 |
@@ -578,24 +578,21 @@ Any material changes to approved communication responsibilities, decision author
 
 ### 10.1 Project Management References
 
-1. **Project Management Institute (PMI).** *A Guide to the Project Management Body of Knowledge (PMBOK® Guide) — Eighth Edition and The Standard for Project Management.*  
-   https://www.pmi.org/standards/pmbok
-
-2. **Google Project Management Professional Certificate.** Coursera — Educational resource informing practical project management, stakeholder communication, Agile delivery, and project documentation practices.  
+1. **Google Project Management Professional Certificate.** Coursera — Educational resource informing practical project management, stakeholder communication, Agile delivery, and project documentation practices.  
    https://www.coursera.org/professional-certificates/google-project-management
 
 ### 10.2 Omani Legal and Regulatory References
 
-3. **Sultanate of Oman.** Royal Decree 6/2022 — Personal Data Protection Law.  
+2. **Sultanate of Oman.** Royal Decree 6/2022 — Personal Data Protection Law.  
    https://www.mtcit.gov.om/sectors/governance/personal
 
-4. **Sultanate of Oman.** Royal Decree 68/2026 — Amending Certain Provisions of the Personal Data Protection Law.  
+3. **Sultanate of Oman.** Royal Decree 68/2026 — Amending Certain Provisions of the Personal Data Protection Law.  
    https://www.mtcit.gov.om/library-3/legislations-policies-8/laws-75/royal-decree-68-2026-amending-some-provisions-of-the-personal-data-protection-law-1481
 
-5. **Ministry of Transport, Communications and Information Technology.** Ministerial Decision 34/2024 — Executive Regulation of the Personal Data Protection Law.  
+4. **Ministry of Transport, Communications and Information Technology.** Ministerial Decision 34/2024 — Executive Regulation of the Personal Data Protection Law.  
    https://www.mtcit.gov.om/library-3/legislations-policies-8/regulations-72/executive-regulations-of-the-personal-data-protection-law-1035
 
-6. **Ministry of Transport, Communications and Information Technology.** Personal Data Protection — Official Guidance, Frequently Asked Questions, and Regulatory Services.  
+5. **Ministry of Transport, Communications and Information Technology.** Personal Data Protection — Official Guidance, Frequently Asked Questions, and Regulatory Services.  
    https://www.mtcit.gov.om/sectors/governance/personal
 
 ### 10.3 Project Document References
