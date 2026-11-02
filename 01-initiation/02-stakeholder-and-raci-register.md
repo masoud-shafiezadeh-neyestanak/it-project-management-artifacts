@@ -405,3 +405,115 @@ The following matrix is aligned with the WBS codes in the Scope Baseline (GEN-SB
 - Regulatory authorities and potential clients are not assigned internal RACI responsibilities. They remain external stakeholders engaged through the appropriate formal channels.
 
 ---
+
+## 6. Decision Authority & Responsibility Boundaries
+
+The RACI Matrix establishes work-package accountability. Formal decision authority is governed separately by the following boundaries.
+
+| Role | Decision Authority | Limitations |
+|---|---|---|
+| **Project Sponsor** | Approves the Project Charter, project baselines, material scope and budget changes, major escalations, and project closure. | Must act within the organization's own governance and authorization structure. |
+| **Lead Project Manager** | Coordinates delivery, manages operational priorities, maintains project records, monitors risks, and recommends corrective actions. | Cannot independently approve material baseline changes or expenditure beyond delegated authority. |
+| **Lead Software & Cloud Engineer** | Makes technical implementation decisions within the approved architecture, security requirements, and assigned work packages. | Cannot independently authorize material scope, budget, or contractual changes. |
+| **Marketing Lead** | Coordinates approved branding, content, service catalogue preparation, and client outreach activities. | Cannot publish unapproved business claims or independently commit the company to commercial terms. |
+| **External Legal Adviser** | Provides legal and regulatory advice, reviews contractual templates, and identifies applicable compliance concerns. | Does not automatically possess company signing authority or project budget approval rights. |
+| **Authorized Company Signatory / Business Owner** | Approves or executes contracts, commercial commitments, and other business documents within formally delegated company authority. | Authority is limited to documented corporate delegation and applicable law. |
+| **Data Protection Contact / DPO** | Provides privacy guidance, supports relevant compliance reviews, and coordinates applicable data protection matters. | Does not automatically possess authority over project baselines or company commercial commitments. |
+| **Database Administrator** | Performs authorized database configuration, maintenance, access management, and technical handover tasks where assigned. | Must operate within the approved architecture, security requirements, and assigned authority. |
+
+### 6.1 Formal Approval Requirements
+
+The following approval principles apply:
+
+- Project Charter and baseline approval must be recorded by the authorized Project Sponsor.
+- Changes to the approved scope, schedule, or cost baselines require the appropriate formal approval.
+- Legal review of contractual templates must be completed by the External Legal Adviser within the agreed engagement.
+- Business authorization of templates and commercial commitments must be provided by the Authorized Company Signatory or another formally authorized representative.
+- External client proposals must not be dispatched with unapproved pricing, service commitments, or contractual terms.
+- Final project closure requires recorded approval from the Project Sponsor or formally authorized delegate.
+
+The identity and authority of the Project Sponsor and Authorized Company Signatory must be confirmed during project mobilization.
+
+---
+
+## 7. Stakeholder Communication and Coordination
+
+Stakeholder engagement and communication must remain aligned with the Project Communication Management Plan (GEN-COM-001).
+
+The following coordination principles apply:
+
+- The Project Sponsor receives weekly executive status reports and material escalation notices.
+- The Lead Project Manager coordinates day-to-day communication across delivery contributors.
+- Technical contributors use GitHub and Asana for technical and operational updates.
+- The Marketing Lead coordinates external-facing content and prospect communication through authorized channels.
+- The External Legal Adviser receives relevant documents through restricted and approved channels.
+- The Data Protection Contact / DPO is consulted when personal data processing or material privacy concerns arise.
+- Formal decisions and approvals must be recorded in the designated project repository.
+- Confidential stakeholder and client information must not be published in public project repositories.
+
+Material stakeholder changes must be reflected in the Stakeholder Register and, where necessary, in the Communication Plan and RACI Matrix.
+
+---
+
+## 8. Stakeholder Change and Review Control
+
+### 8.1 Stakeholder Register Updates
+
+The Lead Project Manager is responsible for maintaining the register throughout the project lifecycle.
+
+Updates may be required when:
+
+- A new stakeholder is identified.
+- An existing stakeholder leaves or changes responsibilities.
+- Decision-making authority changes.
+- A vendor, legal adviser, or specialist role is engaged.
+- Stakeholder expectations materially change.
+- External regulatory requirements introduce new coordination needs.
+- A material change affects the stakeholder engagement strategy.
+
+### 8.2 RACI Change Control
+
+Changes to the RACI Matrix must be reviewed against the corresponding WBS and approved project structure.
+
+Any change to Responsible or Accountable assignments must be documented and communicated to affected stakeholders.
+
+Each activity must retain exactly one Accountable role.
+
+Material changes to accountability or decision authority must receive the required approval before implementation.
+
+### 8.3 Review Frequency
+
+The Stakeholder Register and RACI Matrix will be reviewed:
+
+- During project mobilization.
+- At material project milestone reviews.
+- When major scope or organizational changes occur.
+- When a material issue or risk indicates stakeholder misalignment.
+- During final project closure and handover.
+
+---
+
+## 9. Document Control & Approval
+
+### 9.1 Approval Record
+
+| Role | Name | Approval Action | Date |
+|---|---|---|---|
+| Project Sponsor | To be confirmed | Pending Approval | To be recorded |
+| Lead Project Manager | Masoud | Prepared and Submitted for Review | 1 November 2026 |
+
+### 9.2 Revision History
+
+| Version | Date | Author | Description of Change | Status |
+|---|---|---|---|---|
+| 1.0 | Previous release; date not recorded | Lead Project Manager | Initial Stakeholder Register and RACI Matrix. | Superseded |
+| 2.0 | 1 November 2026 | Lead Project Manager | Major revision including expanded stakeholder identification, power-interest analysis, stakeholder expectations, engagement assessment, WBS-aligned RACI Matrix, and clarified decision authority. | Pending Approval |
+
+### 9.3 Approval Statement
+
+This document becomes the approved Stakeholder Register and Responsibility Assignment Matrix only after the Project Sponsor or formally authorized delegate has recorded approval.
+
+Until approval is recorded, this document serves as the proposed stakeholder and responsibility baseline for project review.
+
+Material changes to stakeholder responsibilities, accountability, or decision authority must be documented and approved through the applicable project governance process.
+
