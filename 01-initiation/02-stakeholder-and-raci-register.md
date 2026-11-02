@@ -278,3 +278,130 @@ Regulatory interactions must be coordinated by the authorized company representa
 - Maintain a controlled outreach register.
 - Track responses and feedback without assuming guaranteed commercial conversion.
 
+---
+
+## 4. Stakeholder Engagement Assessment
+
+### 4.1 Engagement Levels
+
+Stakeholder engagement will be reviewed using the following qualitative levels:
+
+| Level | Description |
+|---|---|
+| Unaware | The stakeholder is not adequately informed about the project or its relevant activities. |
+| Resistant | The stakeholder is aware of the project but demonstrates opposition or reluctance to support it. |
+| Neutral | The stakeholder is aware of the project but has not demonstrated active support or resistance. |
+| Supportive | The stakeholder understands the project and supports its objectives or assigned responsibilities. |
+| Leading | The stakeholder actively promotes project success and contributes to resolving issues or enabling decisions. |
+
+### 4.2 Engagement Monitoring
+
+The initial engagement level of each stakeholder must be confirmed during project mobilization.
+
+The Lead Project Manager will monitor the difference between current and desired engagement levels and identify actions required to improve stakeholder involvement.
+
+| Stakeholder Group | Desired Engagement Level | Required Management Action |
+|---|---|---|
+| Project Sponsor | Leading | Maintain active participation and timely decision-making. |
+| Lead Project Manager | Leading | Maintain coordination and ownership of project governance. |
+| Technical Contributors | Supportive | Ensure clarity of requirements, access, and technical decisions. |
+| Marketing Lead | Supportive | Provide timely content and commercial direction. |
+| External Legal Adviser | Supportive | Ensure effective engagement during legal review activities. |
+| Authorized Company Signatory | Leading / Supportive | Maintain approval availability for relevant business decisions. |
+| Data Protection Contact / DPO | Supportive | Ensure appropriate privacy consultation and incident coordination. |
+| Regulatory Authorities | Compliant / Appropriate Engagement | Satisfy applicable regulatory and statutory requirements. |
+| Service Providers | Supportive | Maintain effective service and vendor coordination. |
+| Target SME Prospects | Informed / Interested | Provide relevant commercial information and respond to qualified inquiries. |
+
+Actual engagement levels must be recorded based on observed participation and stakeholder feedback, not assumed from the desired levels above.
+
+### 4.3 Stakeholder Review Frequency
+
+The Stakeholder Register must be reviewed:
+
+- During project initiation and mobilization.
+- When a new stakeholder is identified.
+- When roles, authority, or responsibilities change.
+- When stakeholder expectations materially change.
+- When project risks, scope, or delivery conditions require a revised engagement approach.
+- During project closure and handover.
+
+The Lead Project Manager is responsible for maintaining the register and documenting material changes.
+
+---
+
+## 5. RACI Matrix — Responsibility Assignment
+
+### 5.1 RACI Definitions
+
+The RACI Matrix clarifies the level of responsibility assigned to each role.
+
+| Code | Responsibility | Definition |
+|---|---|---|
+| **R** | Responsible | Performs the work or produces the required output. Multiple Responsible roles may be assigned where necessary. |
+| **A** | Accountable | Has ultimate accountability for completion of the activity. Exactly one Accountable role must be assigned to each activity. |
+| **C** | Consulted | Provides relevant advice, specialist input, or review before the activity is completed. |
+| **I** | Informed | Receives updates regarding progress, decisions, or outcomes. |
+
+**Important:** RACI accountability for completing a project activity does not automatically confer legal signing authority, financial delegation, or the authority to approve company contracts.
+
+Those powers remain subject to the organization's formal authorization arrangements.
+
+### 5.2 RACI Role Abbreviations
+
+| Abbreviation | Role |
+|---|---|
+| **PS** | Project Sponsor / Executive Board Representative |
+| **PM** | Lead Project Manager |
+| **TECH** | Lead Software & Cloud Engineer |
+| **MKT** | Marketing Lead |
+| **LEGAL** | External Legal Adviser |
+| **SIGN** | Authorized Company Signatory / Business Owner |
+| **DPO** | Designated Data Protection Contact / DPO, where applicable |
+| **DBA** | Database Administrator, if assigned |
+
+### 5.3 RACI Responsibility Matrix
+
+The following matrix is aligned with the WBS codes in the Scope Baseline (GEN-SBL-001).
+
+| WBS Code | Deliverable / Work Package | PS | PM | TECH | MKT | LEGAL | SIGN | DPO | DBA |
+|---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **1.1.1** | Project Charter & Authorization | A | R | I | I | C | C | I | I |
+| **1.1.2** | Stakeholder Register & RACI | C | A/R | C | C | C | C | C | I |
+| **1.1.3** | Initial Risk Register | I | A/R | C | C | C | I | C | C |
+| **1.1.4** | Scope, Schedule & Cost Baseline | A | R | C | C | C | C | C | C |
+| **1.2.1** | Corporate Domain & DNS Provisioning | I | A | R | C | I | I | I | I |
+| **1.2.2** | Corporate Workspace & Email Setup | I | A | R | C | I | I | C | I |
+| **1.2.3** | Identity, Access & Security Controls | I | A | R | I | I | I | C | C |
+| **1.3.1** | Bilingual Content & Brand Preparation | C | A | C | R | C | C | I | I |
+| **1.3.2** | Website Implementation & Hosting | I | A | R | C | I | I | C | C |
+| **1.3.3** | Production Website Release | I | A | R | C | I | C | C | C |
+| **1.3.4** | Website Quality & Security Testing | I | A | R | C | I | I | C | C |
+| **1.4.1** | SOW & NDA Templates | I | A/R | C | C | C | C | C | I |
+| **1.4.2** | MSA & SLA Templates | I | A/R | C | C | C | C | C | I |
+| **1.4.3** | Commercial Proposal Template | I | A | C | R | C | C | I | I |
+| **1.4.4** | External Legal Review | I | A | C | C | R | C | C | I |
+| **1.5.1** | Asana Workspace Configuration | I | A/R | C | C | I | I | I | I |
+| **1.5.2** | SOP & Operational Checklist Development | I | A | R | R | C | C | C | C |
+| **1.5.3** | GitHub Repository & Secret Management Controls | I | A | R | I | I | I | C | C |
+| **1.6.1** | CR Activity Verification & Service Mapping | I | A/R | I | C | C | C | I | I |
+| **1.6.2** | Service Catalogue Content Preparation | I | A | C | R | C | C | I | I |
+| **1.6.3** | Service Catalogue Publication | I | A | C | R | I | C | I | I |
+| **1.7.1** | SME Prospect Identification & Qualification | I | A | I | R | I | I | C | I |
+| **1.7.2** | Proposal Customization | I | A | C | R | C | C | C | I |
+| **1.7.3** | Proposal Dispatch & Outreach Register | I | A | I | R | I | C | C | I |
+| **1.8.1** | Deliverable Acceptance Review | A | R | R | R | C | C | C | C |
+| **1.8.2** | Asset Handover & Outstanding Actions | I | A | R | R | C | I | C | R |
+| **1.8.3** | Lessons Learned Retrospective | I | A/R | C | C | I | I | I | C |
+| **1.8.4** | Closeout Report & Sponsor Sign-Off | A | R | C | C | C | C | C | C |
+
+**RACI Notes:**
+
+- Every WBS activity has exactly one designated Accountable role.
+- A/R means the same role both performs the work and retains accountability.
+- Multiple Responsible roles are permitted where work requires more than one contributor.
+- DBA assignments are applicable only when database-related work is included in the approved architecture.
+- DPO involvement is subject to the applicable legal requirements and formal designation of the role.
+- Regulatory authorities and potential clients are not assigned internal RACI responsibilities. They remain external stakeholders engaged through the appropriate formal channels.
+
+---
