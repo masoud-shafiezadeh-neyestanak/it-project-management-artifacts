@@ -517,3 +517,32 @@ Until approval is recorded, this document serves as the proposed stakeholder and
 
 Material changes to stakeholder responsibilities, accountability, or decision authority must be documented and approved through the applicable project governance process.
 
+---
+
+## 10. Reference Resources
+
+### 10.1 Primary Learning Resource
+
+**Google Project Management Professional Certificate — Coursera**
+
+Educational resource informing stakeholder identification, stakeholder analysis, communication planning, responsibility assignment, and practical project management methods.
+
+https://www.coursera.org/professional-certificates/google-project-management
+
+### 10.2 Related Project Documents
+
+1. Project Charter — GEN-CH-001.  
+   `01-initiation/project-charter.md`
+
+2. Scope Baseline — GEN-SBL-001.  
+   `02-planning/scope-baseline.md`
+
+3. Risk Register — GEN-RSK-001.  
+   `02-planning/risk-register.md`
+
+4. Project Communication Management Plan — GEN-COM-001.  
+   `02-planning/communication-management-plan.md`
+
+---
+
+**End of Document**
