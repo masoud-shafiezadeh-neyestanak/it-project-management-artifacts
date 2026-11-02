@@ -119,3 +119,162 @@ The Power-Interest Grid is a planning and prioritization tool. It does not repla
 - Evidence-based acceptance of major deliverables.
 - Controlled management of changes and external commitments.
 
+**Engagement Strategy:**
+
+- Weekly executive status reporting.
+- Formal milestone reviews.
+- Escalation of high risks and material baseline deviations.
+- Documented approval of scope, budget, schedule changes, and project closure.
+
+### 3.2 Lead Project Manager
+
+**Key Expectations:**
+
+- Clear delegation of authority.
+- Timely stakeholder responses and approvals.
+- Access to required project resources.
+- Accurate technical, commercial, and financial information.
+- Consistent reporting and document ownership.
+
+**Engagement Strategy:**
+
+- Continuous operational coordination.
+- Regular reviews of the WBS, Risk Register, and Communication Plan.
+- Maintenance of decision, issue, and change records.
+- Coordination of project meetings and stakeholder engagement activities.
+
+### 3.3 Technical Contributors
+
+**Key Expectations:**
+
+- Clear technical requirements and acceptance criteria.
+- Approved infrastructure architecture.
+- Appropriate access and technical resources.
+- Timely resolution of dependencies and blockers.
+- Clear source-code, configuration, and asset ownership arrangements.
+
+**Engagement Strategy:**
+
+- Technical coordination through Asana and GitHub.
+- Technical reviews at relevant implementation milestones.
+- Documented pull-request reviews and configuration changes.
+- Secure access and formal technical handover.
+
+### 3.4 Marketing Lead
+
+**Key Expectations:**
+
+- Approved service portfolio and business information.
+- Clear brand and communication requirements.
+- Timely feedback on Arabic and English content.
+- Commercially accurate service descriptions and pricing information.
+
+**Engagement Strategy:**
+
+- Weekly content and service catalogue reviews.
+- Coordination with the Lead Project Manager.
+- Review and approval of external-facing materials before publication.
+- Tracking of prospect qualification and proposal dispatch activities.
+
+### 3.5 External Legal Adviser
+
+**Key Expectations:**
+
+- Accurate corporate and commercial information.
+- Clearly defined review scope and requested deliverables.
+- Timely access to relevant documents.
+- Sufficient time to identify and communicate legal concerns.
+
+**Engagement Strategy:**
+
+- Engage during preparation and review of contractual templates.
+- Provide relevant legal and regulatory information through approved channels.
+- Document comments and required corrective actions.
+- Escalate issues that require additional legal analysis.
+
+The External Legal Adviser provides specialist legal advice and review. Final business authorization and execution of company contracts remain with the appropriately authorized company representative.
+
+### 3.6 Authorized Company Signatory / Business Owner
+
+**Key Expectations:**
+
+- Accurate representation of approved business activities.
+- Control over commercial commitments and contractual terms.
+- Approval of external-facing business information.
+- Appropriate authorization of proposals and agreements.
+
+**Engagement Strategy:**
+
+- Consult during service catalogue preparation and commercial template review.
+- Obtain required authorization before formal commercial commitments.
+- Involve the signatory in material client-facing decisions.
+- Maintain documented approval records.
+
+### 3.7 Data Protection Contact / DPO
+
+**Key Expectations:**
+
+- Appropriate handling of customer and prospect personal data.
+- Clear understanding of data collection and processing purposes.
+- Appropriate access and retention arrangements.
+- Timely escalation of privacy concerns and suspected data incidents.
+
+**Engagement Strategy:**
+
+- Consult during website form and customer-data design.
+- Review relevant personal data handling and outreach procedures.
+- Participate in assessment of material privacy incidents where applicable.
+- Coordinate with legal advisers and the Project Sponsor when required.
+
+### 3.8 Regulatory Authorities
+
+**Key Expectations:**
+
+- Accurate registration and business information.
+- Compliance with applicable regulatory requirements.
+- Timely submission of required documentation.
+- Appropriate use of registered and authorized commercial activities.
+
+**Engagement Strategy:**
+
+- Communicate through official channels where required.
+- Verify commercial registration and activity information.
+- Complete applicable administrative and regulatory requirements.
+- Maintain relevant submission and approval records.
+
+Regulatory interactions must be coordinated by the authorized company representative or designated project owner.
+
+### 3.9 Cloud, Domain, and SaaS Providers
+
+**Key Expectations:**
+
+- Accurate account and service information.
+- Compliance with contractual service terms.
+- Timely payment and subscription management.
+- Appropriate technical configuration and account administration.
+
+**Engagement Strategy:**
+
+- Manage service activation and technical dependencies.
+- Maintain records of subscriptions, service configurations, and administrative ownership.
+- Escalate service issues through provider support channels.
+- Review vendor suitability and recurring costs.
+
+### 3.10 Target SME Prospects and Potential Clients
+
+**Key Expectations:**
+
+- Professional and understandable proposals.
+- Transparent scope, assumptions, exclusions, and pricing.
+- Clear service-level commitments.
+- Appropriate confidentiality and information-handling practices.
+- Timely responses to business inquiries.
+
+**Engagement Strategy:**
+
+- Qualify prospects according to business relevance.
+- Use approved commercial proposal templates.
+- Communicate through authorized corporate channels.
+- Maintain a controlled outreach register.
+- Track responses and feedback without assuming guaranteed commercial conversion.
+
