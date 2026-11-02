@@ -84,3 +84,38 @@ Power and interest assessments are qualitative and represent the anticipated inf
 - Target SME prospects are potential customers. Their actual interest must be assessed as part of the qualification and outreach process.
 - Regulatory authorities are external stakeholders whose decisions and requirements may affect project activities. They do not form part of the internal project delivery team.
 
+### 2.2 Power-Interest Analysis
+
+Power and interest are assessed as follows:
+
+**Power:** The stakeholder's ability to influence project decisions, authorize resources, approve changes, affect regulatory compliance, or constrain project delivery.
+
+**Interest:** The stakeholder's level of involvement, concern, or direct interest in the project's objectives and outcomes.
+
+The following engagement strategies are applied:
+
+| Power | Interest | Recommended Strategy | Management Approach |
+|---|---|---|---|
+| High | High | Manage Closely | Maintain active involvement, regular communication, and direct engagement in material decisions. |
+| High | Low | Keep Satisfied | Provide relevant updates, meet formal requirements, and avoid unnecessary communication. |
+| Low | High | Keep Informed | Maintain regular information sharing and seek feedback when appropriate. |
+| Low | Low | Monitor | Monitor changes in interest or influence and engage when necessary. |
+
+For stakeholders with Medium power or variable interest, the Lead Project Manager will tailor engagement based on their actual influence, responsibilities, and involvement.
+
+The Power-Interest Grid is a planning and prioritization tool. It does not replace statutory communication obligations, contractual responsibilities, or formal approval requirements.
+
+---
+
+## 3. Stakeholder Expectations & Engagement Strategy
+
+### 3.1 Project Sponsor / Executive Board
+
+**Key Expectations:**
+
+- Delivery within the approved scope, schedule, and cost baseline.
+- Transparent reporting of material risks and project performance.
+- Timely escalation of issues requiring executive decisions.
+- Evidence-based acceptance of major deliverables.
+- Controlled management of changes and external commitments.
+
