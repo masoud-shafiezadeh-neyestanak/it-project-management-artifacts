@@ -534,14 +534,14 @@ https://www.coursera.org/professional-certificates/google-project-management
 1. Project Charter — GEN-CH-001.  
    `01-initiation/project-charter.md`
 
-2. Scope Baseline — GEN-SBL-001.  
+2. Project Scope Statement, WBS & WBS Dictionary — GEN-SBL-001.  
    `02-planning/02-scope-and-wbs.md`
 
 3. Risk Register — GEN-RSK-001.  
    `02-planning/01-risk-register.md`
 
 4. Project Communication Management Plan — GEN-COM-001.  
-   `02-planning/communication-management-plan.md`
+   `02-planning/03-communication-plan.md`
 
 ---
 
