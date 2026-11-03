@@ -12,7 +12,7 @@
 | **Version** | 2.0 |
 | **Status** | Pending Approval |
 | **Last Updated** | 1 November 2026 |
-| **Related Documents** | `01-initiation/project-charter.md` (GEN-CH-001); `02-planning/scope-baseline.md` (GEN-SBL-001); `02-planning/risk-register.md` (GEN-RSK-001); `02-planning/communication-management-plan.md` (GEN-COM-001) |
+| **Related Documents** | `01-initiation/project-charter.md` (GEN-CH-001); `02-planning/01-risk-register.md` (GEN-SBL-001); `02-planning/02-scope-and-wbs.md` (GEN-RSK-001); `02-planning/03-communication-plan.md` (GEN-COM-001) |
 
 ---
 
@@ -532,13 +532,13 @@ https://www.coursera.org/professional-certificates/google-project-management
 ### 10.2 Related Project Documents
 
 1. Project Charter — GEN-CH-001.  
-   `01-initiation/project-charter.md`
+   `01-initiation/01-project-charter.md`
 
-2. Project Scope Statement, WBS & WBS Dictionary — GEN-SBL-001.  
-   `02-planning/02-scope-and-wbs.md`
-
-3. Risk Register — GEN-RSK-001.  
+2. Risk Register — GEN-RSK-001.  
    `02-planning/01-risk-register.md`
+
+3. Project Scope Statement, WBS & WBS Dictionary — GEN-SBL-001.  
+   `02-planning/02-scope-and-wbs.md`
 
 4. Project Communication Management Plan — GEN-COM-001.  
    `02-planning/03-communication-plan.md`
