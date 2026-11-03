@@ -42,7 +42,7 @@ The project scope, schedule, budget, and approval status are maintained in their
 
 Establishing the project foundation, governance structure, stakeholder responsibilities, and initial authorization.
 
-- 📄 **[Project Charter (GEN-CH-001)](./01-initiation/project-charter.md):** Defines project objectives, business case, high-level scope, assumptions, constraints, governance structure, and project authorization.
+- 📄 **[Project Charter (GEN-CH-001)](01-initiation/01-project-charter.md):** Defines project objectives, business case, high-level scope, assumptions, constraints, governance structure, and project authorization.
 
 - 👥 **[Stakeholder Register & RACI Matrix (GEN-STK-001)](./01-initiation/stakeholder-register.md):** Identifies project stakeholders, evaluates power and interest, documents stakeholder expectations, establishes engagement strategies, and defines responsibility and decision-making assignments.
 
