@@ -19,25 +19,88 @@ iterative delivery, and continuous monitoring.
 ## Repository Structure & Artifacts
 
 ### 01. Initiation Phase (`/01-initiation`)
-* **Project Charter (`GEN-CH-001`):** Defining high-level objectives, business cases, scope, constraints, and authority levels.
-* **Stakeholder & RACI Register (`GEN-STK-001`):** Stakeholder identification, power/interest mapping, and RACI role assignments across IT workflows.
+
+- **Project Charter (GEN-CH-001):**
+  Defines project objectives, business case, high-level scope,
+  constraints, assumptions, governance, and project authorization.
+
+- **Stakeholder Register & RACI Matrix (GEN-STK-001):**
+  Identifies project stakeholders, assesses power and interest,
+  documents stakeholder expectations, and establishes
+  responsibility and decision-making assignments.
 
 ### 02. Planning & Governance (`/02-planning`)
-* **Risk Register (`GEN-RSK-001`):** Comprehensive risk identification, probability/impact scoring, and mitigation strategies aligned with Omani regulations (RD 68/2026).
-* **Scope Statement & WBS (`GEN-WBS-001`):** 3-level scope decomposition and WBS dictionary into actionable deliverables.
-* **Schedule Baseline & Critical Path (`GEN-SCH-001`):** Milestone timeline, task dependencies, and 3-point estimating.
-* **Budget Baseline (`GEN-BGT-001`):** OPEX/CAPEX breakdown, contingency reserves, and cost controls ($1,500–$2,500).
-* **Communication Plan (`GEN-COM-001`):** Governance channels, reporting cadence, and information flow matrix.
-* **Quality Management Plan (`GEN-QMP-001`):** Acceptance criteria, QA/QC benchmarks, and usability standards.
-* **Procurement & Legal Suite (`/procurement-templates`):** Industry-standard commercial templates including SOW (`GEN-SOW-001`), NDA (`GEN-NDA-001`), MSA (`GEN-MSA-001`), SLA (`GEN-SLA-001`), and Client Proposal (`GEN-PRP-001`).
-* **Project Kickoff Agenda (`GEN-KOF-001`):** Stakeholder alignment agenda prior to execution.
 
-### 03. Execution & Agile Workflows (`/03-execution-agile`)
-* **Agile Task Framework:** Task structure, sprint backlogs, and workflow automation (Asana / Google Tasks integration).
+- **Scope Baseline (GEN-SBL-001):**
+  Integrates the Project Scope Statement, Work Breakdown
+  Structure (WBS), WBS Dictionary, acceptance criteria,
+  and scope change-control procedures.
 
-### 04. Closure & Retrospective (`/04-closure`)
-* **Project Closeout Report:** Final deliverable acceptance, operational handoff checklists, and retrospective lessons learned.
+- **Risk Register (GEN-RSK-001):**
+  Identifies and evaluates project risks using qualitative
+  Probability × Impact (P×I) assessment, with mitigation
+  strategies, ownership, and escalation criteria.
 
+- **Communication Management Plan (GEN-COM-001):**
+  Defines stakeholder communication requirements, reporting
+  cadence, communication channels, escalation procedures,
+  and information security practices.
+
+- **Schedule Baseline (GEN-SCH-001):**
+  Defines project activities, milestone timelines,
+  task dependencies, schedule estimates, and critical path.
+
+- **Budget Baseline (GEN-BGT-001):**
+  Documents project cost estimates, budget categories,
+  contingency considerations, and expenditure controls.
+
+- **Quality Management Plan (GEN-QMP-001):**
+  Establishes quality requirements, deliverable acceptance
+  criteria, verification procedures, and QA/QC practices.
+
+- **Commercial & Legal Template Suite (`/03-execution/deliverables/commercial-legal-templates`):**
+  Contains standardized commercial and legal templates:
+  SOW (GEN-SOW-001), NDA (GEN-NDA-001),
+  MSA (GEN-MSA-001), SLA (GEN-SLA-001),
+  and Client Proposal (GEN-PRP-001).
+
+- **Project Kickoff Agenda (GEN-KOF-001):**
+  Defines the formal project kickoff agenda, stakeholder
+  alignment, communication expectations, and execution readiness.
+
+### 03. Execution (`/03-execution`)
+
+- **Agile & Operational Workflows:**
+  Task management, iterative delivery, backlog coordination,
+  and workflow implementation using Asana and GitHub.
+
+- **Technical & Operational Deliverables:**
+  Implementation of digital infrastructure, corporate website,
+  service catalogue, and operational systems.
+
+- **Standard Operating Procedures (SOPs):**
+  Documented operational processes, service workflows,
+  and implementation procedures.
+
+### 04. Monitoring & Controlling (`/04-monitoring-control`)
+
+- **Change Log:** Formal tracking of approved and rejected changes.
+- **Issue Log:** Recording and monitoring of project issues and blockers.
+- **Decision Log:** Traceable records of material project decisions.
+- **Deliverable Acceptance Register:** Evidence of deliverable
+  reviews, acceptance decisions, and exceptions.
+- **Status Reports:** Weekly project performance and milestone updates.
+
+### 05. Closure & Retrospective (`/05-closure`)
+
+- **Project Closeout Report:** Final project performance,
+  deliverable acceptance, and closure approval.
+- **Asset Handover Checklist:** Transfer of technical,
+  operational, and administrative assets.
+- **Lessons Learned Register:** Documented project insights
+  and improvement opportunities.
+- **Final Budget Summary:** Reconciliation of approved,
+  committed, and actual project expenditure.
 ---
 
 ##  Author & Project Lead
