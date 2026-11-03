@@ -538,7 +538,7 @@ https://www.coursera.org/professional-certificates/google-project-management
    `02-planning/scope-baseline.md`
 
 3. Risk Register — GEN-RSK-001.  
-   `02-planning/risk-register.md`
+   `02-planning/02-scope-and-wbs.md`
 
 4. Project Communication Management Plan — GEN-COM-001.  
    `02-planning/communication-management-plan.md`
