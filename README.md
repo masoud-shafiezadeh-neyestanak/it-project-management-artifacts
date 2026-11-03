@@ -1,7 +1,18 @@
 # IT Project Management Artifacts & Governance Framework 
 ### Project Genesis — Operational Infrastructure & Service Workflows
 
-Welcome to the central repository for standardized IT project management frameworks and artifacts. This project (**Project Genesis**) demonstrates end-to-end IT operations governance, chartering, and risk management built upon PMI standards and the Google Project Management framework.
+Welcome to the central repository for practical IT project
+management artifacts, governance documentation, and operational
+workflows.
+
+This repository demonstrates the practical application of project
+management concepts and tools informed by the Google Project
+Management Professional Certificate (Coursera), adapted to the
+business, technical, and operational requirements of Project Genesis.
+
+The project follows a tailored Hybrid Project Management approach,
+combining structured governance, documented approval controls,
+iterative delivery, and continuous monitoring.
 
 ---
 
