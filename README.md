@@ -54,7 +54,7 @@ Establishing the integrated planning baselines and management processes required
 
 - 🛡️ **[Risk Register (GEN-RSK-001)](02-planning/01-risk-register.md):** Identifies and evaluates project risks using qualitative Probability × Impact (P×I) assessment, numerical risk scoring, mitigation strategies, risk ownership, and escalation criteria. Includes considerations relating to applicable Omani regulatory and data protection requirements.
 
-- 📡 **[Communication Management Plan (GEN-COM-001)](./02-planning/communication-management-plan.md):** Defines stakeholder communication requirements, communication channels, reporting cadence, 5W1H principles, RAG status reporting, escalation procedures, and information security practices.
+- 📡 **[Communication Management Plan (GEN-COM-001)](02-planning/03-communication-plan.md):** Defines stakeholder communication requirements, communication channels, reporting cadence, 5W1H principles, RAG status reporting, escalation procedures, and information security practices.
 
 - 📅 **Schedule Baseline (GEN-SCH-001):** Defines project activity sequencing, milestone timelines, task dependencies, resource considerations, and critical path analysis where applicable.
 
