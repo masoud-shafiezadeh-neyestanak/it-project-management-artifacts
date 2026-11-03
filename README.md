@@ -50,7 +50,7 @@ Establishing the project foundation, governance structure, stakeholder responsib
 
 Establishing the integrated planning baselines and management processes required for controlled project delivery.
 
-- 📐 **[Scope Baseline (GEN-SBL-001)](./02-planning/scope-baseline.md):** Integrates the Project Scope Statement, Work Breakdown Structure (WBS), WBS Dictionary, deliverable acceptance criteria, assumptions, constraints, and scope change-control procedures.
+- 📐 **[Scope Baseline (GEN-SBL-001)](02-planning/02-scope-and-wbs.md):** Integrates the Project Scope Statement, Work Breakdown Structure (WBS), WBS Dictionary, deliverable acceptance criteria, assumptions, constraints, and scope change-control procedures.
 
 - 🛡️ **[Risk Register (GEN-RSK-001)](./02-planning/risk-register.md):** Identifies and evaluates project risks using qualitative Probability × Impact (P×I) assessment, numerical risk scoring, mitigation strategies, risk ownership, and escalation criteria. Includes considerations relating to applicable Omani regulatory and data protection requirements.
 
