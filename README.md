@@ -120,7 +120,7 @@ The following table provides an overview of the documentation development status
 
 | Document | Document ID | Current Status |
 |---|---|---|
-| Project Charter | GEN-CH-001 | Prepared — Review / Approval Pending |
+| Project Charter | GEN-CH-001 | Prepared — Review / Approved & Active |
 | Stakeholder Register & RACI v2.0 | GEN-STK-001 | Revised Draft — Review Pending |
 | Scope Baseline | GEN-SBL-001 | Consolidation / Final Review |
 | Risk Register | GEN-RSK-001 | Revised Draft — Approval Pending |
