@@ -1,6 +1,5 @@
 # Project Charter — Project Genesis
 
-# Project Charter — Project Genesis
 
 | Document Metadata | Details |
 | :--- | :--- |
