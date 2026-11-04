@@ -52,7 +52,7 @@ Establishing the integrated planning baselines and management processes required
 
 - 📐 **[Scope Baseline (GEN-SBL-001)](02-planning/01-scope-baseline.md):** Integrates the Project Scope Statement, Work Breakdown Structure (WBS), WBS Dictionary, deliverable acceptance criteria, assumptions, constraints, and scope change-control procedures.
 
-- 🛡️ **[Risk Register (GEN-RSK-001)](02-planning/01-risk-register.md):** Identifies and evaluates project risks using qualitative Probability × Impact (P×I) assessment, numerical risk scoring, mitigation strategies, risk ownership, and escalation criteria. Includes considerations relating to applicable Omani regulatory and data protection requirements.
+- 🛡️ **[Risk Register (GEN-RSK-001)](02-planning/02-risk-register.md):** Identifies and evaluates project risks using qualitative Probability × Impact (P×I) assessment, numerical risk scoring, mitigation strategies, risk ownership, and escalation criteria. Includes considerations relating to applicable Omani regulatory and data protection requirements.
 
 - 📡 **[Communication Management Plan (GEN-COM-001)](02-planning/03-communication-plan.md):** Defines stakeholder communication requirements, communication channels, reporting cadence, 5W1H principles, RAG status reporting, escalation procedures, and information security practices.
 
