@@ -1,10 +1,10 @@
-# Project Scope Statement & Work Breakdown Structure (WBS)
+# Scope Baseline 
 
 | Document Metadata | Details |
 |---|---|
 | **Document ID** | GEN-WBS-001 |
 | **Project Name** | Project Genesis — Enterprise Operational Infrastructure & Service Workflows Launch |
-| **Document Type** | Project Scope Statement, WBS & WBS Dictionary |
+| **Document Type** | Project Scope Baseline |
 | **Project Location** | Bousher and Barka, Sultanate of Oman |
 | **Primary Learning Resource** | Google Project Management Professional Certificate (Coursera) |
 | **Project Management Approach** | Hybrid Project Management — structured governance combined with iterative and Agile delivery practices |
