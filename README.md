@@ -120,11 +120,11 @@ The following table provides an overview of the documentation development status
 
 | Document | Document ID | Current Status |
 |---|---|---|
-| Project Charter | GEN-CH-001 | Prepared — Review / Approved & Active |
-| Stakeholder Register & RACI v2.0 | GEN-STK-001 | Revised Draft — Review Pending |
-| Scope Baseline | GEN-SBL-001 | Consolidation / Final Review |
-| Risk Register | GEN-RSK-001 | Revised Draft — Approval Pending |
-| Communication Management Plan | GEN-COM-001 | Revised Draft — Stakeholder Alignment Pending |
+| Project Charter | GEN-CH-001 | Approved & Active |
+| Stakeholder Register & RACI v2.0 | GEN-STK-001 | Revised Draft |
+| Scope Baseline | GEN-SBL-001 | Pending Approval |
+| Risk Register | GEN-RSK-001 | Revised Draft |
+| Communication Management Plan | GEN-COM-001 | Revised Draft |
 | Schedule Baseline | GEN-SCH-001 | Planned |
 | Budget Baseline | GEN-BGT-001 | Planned |
 | Quality Management Plan | GEN-QMP-001 | Planned |
