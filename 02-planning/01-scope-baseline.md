@@ -16,7 +16,7 @@
 | **Planned Start Date** | To be confirmed |
 | **Target Completion Date** | To be confirmed |
 | **Budget Estimate** | USD 1,500–2,500 (approximately OMR 570–960), subject to approval |
-| **Related Documents** | `01-initiation/01-project-charter.md` (GEN-CH-001); `02-planning/02-risk-register.md` (GEN-RSK-001); Stakeholder and RACI Register (GEN-STK-001) |
+| **Related Documents** | `01-initiation/project-charter.md` (GEN-CH-001); `02-planning/risk-register.md` (GEN-RSK-001); `01-initiation/stakeholder-and-register.md` (GEN-STK-001) |
 
 ---
 
