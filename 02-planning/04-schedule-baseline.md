@@ -255,3 +255,145 @@ The weekly schedule is a planning view and does not replace the detailed WBS-bas
 
 ---
 
+## 6. Project Milestones
+
+Milestones represent significant events or completion points in the project lifecycle.
+
+Unlike work-package activities, milestones have zero planned duration.
+
+| Milestone ID | Milestone Description | Target Window | Completion Evidence |
+|---|---|---|---|
+| **M1** | Project Authorization & Planning Baseline | Week 2 | Approved Project Charter and required planning baselines. |
+| **M2** | Digital Infrastructure Foundation | Weeks 1–2 | Verified domain, corporate email, cloud workspace, and baseline security configuration. |
+| **M3** | Commercial and Legal Template Review | Weeks 3–4 | Five templates prepared and required legal and business review recorded. |
+| **M4** | Operational Workspace Ready | Weeks 2–4 | Asana workspace, operational workflows, SOPs, and repository controls reviewed. |
+| **M5** | Corporate Website and Service Catalogue Launch | Weeks 5–6 | Bilingual website and approved service catalogue published. |
+| **M6** | Client Outreach Completed | Week 8 | Five formal proposals dispatched and evidence recorded. |
+| **M7** | Project Closure | Week 8 | Deliverable acceptance, handover, Closeout Report, and Sponsor approval. |
+
+Milestone completion requires documented evidence. A target week alone does not constitute milestone acceptance.
+
+---
+
+## 7. Schedule Dependencies and Critical Path Analysis
+
+### 7.1 Key Schedule Dependencies
+
+The following dependencies are considered particularly important to successful delivery.
+
+| Dependency ID | Predecessor | Successor | Dependency Description |
+|---|---|---|---|
+| DEP-01 | Project Authorization (1.1.1) | Baseline-dependent execution activities | Formal authorization is required before work proceeds beyond permitted initiation activities. |
+| DEP-02 | CR Activity Verification (1.6.1) | Service Catalogue and public business content | Commercial activity descriptions must be verified before definitive service claims are published. |
+| DEP-03 | Domain and DNS Provisioning (1.2.1) | Website Hosting and Deployment (1.3.2) | The selected domain and required DNS configuration must be available for deployment. |
+| DEP-04 | Corporate Workspace Setup (1.2.2) | Identity and Access Controls (1.2.3) | Relevant user and administrative accounts must be provisioned before access controls are fully verified. |
+| DEP-05 | Bilingual Content Preparation (1.3.1) | Website Implementation (1.3.2) | Approved content and brand inputs are required for website development. |
+| DEP-06 | Website Implementation (1.3.2) | Website Testing (1.3.4) | The implemented website must be available for functional and security testing. |
+| DEP-07 | Website Testing (1.3.4) | Production Release (1.3.3) | Final production publication depends on successful completion of required testing. |
+| DEP-08 | Legal Template Review (1.4.4) | Proposal Customization (1.7.2) | Required commercial and legal review must be completed before proposals rely on the approved templates. |
+| DEP-09 | Service Catalogue Preparation (1.6.2) | Service Catalogue Publication (1.6.3) | Approved service content must be available before publication. |
+| DEP-10 | Proposal Customization (1.7.2) | Proposal Dispatch (1.7.3) | Proposals must be finalized and authorized before dispatch. |
+| DEP-11 | Deliverable Completion (D1–D6) | Acceptance Review (1.8.1) | Completion evidence must be available before formal acceptance. |
+| DEP-12 | Acceptance and Handover (1.8.1, 1.8.2) | Final Closeout (1.8.4) | Required acceptance and handover records must be completed before formal closure. |
+
+### 7.2 Preliminary Critical Path Considerations
+
+The following activity chains are considered potential critical-path candidates based on the current scope, dependencies, and planned delivery windows.
+
+**Website and Service Launch Path:**
+
+```text
+Project Authorization
+        |
+        v
+CR Activity Verification
+        |
+        v
+Bilingual Content Preparation
+        |
+        v
+Website Implementation & Hosting
+        |
+        v
+Website Quality & Security Testing
+        |
+        v
+Production Website Release
+        |
+        v
+Service Catalogue Publication
+```
+
+**Commercial Outreach Path:**
+
+```text
+Commercial Template Preparation
+        |
+        v
+External Legal Review
+        |
+        v
+Service Catalogue Approval
+        |
+        v
+SME Prospect Qualification
+        |
+        v
+Proposal Customization
+        |
+        v
+Proposal Dispatch
+```
+
+**Project Closure Path:**
+
+```text
+Completion of D1–D6
+        |
+        v
+Deliverable Acceptance Review
+        |
+        v
+Asset Handover and Lessons Learned
+        |
+        v
+Closeout Report
+        |
+        v
+Project Sponsor Sign-Off
+```
+
+These paths highlight activities whose delays may affect the overall completion date.
+
+**Critical Path Status:** Preliminary — Not Formally Validated.
+
+A fully validated Critical Path Method (CPM) calculation requires:
+
+- Confirmed activity durations.
+- Finalized dependency relationships.
+- A confirmed working-day calendar.
+- Resource availability and allocation.
+- Identification of mandatory and flexible dependencies.
+- Calculation of early start, early finish, late start, late finish, and total float.
+
+Until these inputs are confirmed, the identified chains must be treated as critical-path candidates rather than a formally calculated critical path.
+
+### 7.3 Schedule Buffer and Contingency
+
+The eight-week delivery target is the initial planning constraint.
+
+The detailed schedule must identify activities with high uncertainty, particularly:
+
+- Domain registration and DNS provisioning.
+- External legal review.
+- Website implementation and technical testing.
+- Stakeholder approval turnaround times.
+- Client proposal preparation and authorization.
+
+Any time reserve must be explicitly identified and approved as part of the final schedule baseline.
+
+Unallocated time must not automatically be treated as available capacity for additional scope.
+
+---
+
+
