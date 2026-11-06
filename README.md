@@ -1,4 +1,4 @@
-# 🚀 IT Project Management Artifacts & Governance Framework
+#  IT Project Management Artifacts & Governance Framework
 
 ### Project Genesis — Enterprise Operational Infrastructure & Service Workflows Launch
 
@@ -12,7 +12,7 @@ The repository is designed to demonstrate how project management principles can 
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 **Project Genesis** is an operational readiness initiative focused on establishing the foundational digital infrastructure, corporate presence, commercial documentation, and operational workflows required to support an IT and business services enterprise in Oman.
 
@@ -36,43 +36,43 @@ The project scope, schedule, budget, and approval status are maintained in their
 
 ---
 
-## 📂 Repository Structure & Artifacts
+##  Repository Structure & Artifacts
 
-### 🟢 01. Initiation Phase (`/01-initiation`)
+###  01. Initiation Phase (`/01-initiation`)
 
 Establishing the project foundation, governance structure, stakeholder responsibilities, and initial authorization.
 
-- 📄 **[Project Charter (GEN-CH-001)](01-initiation/01-project-charter.md):** Defines project objectives, business case, high-level scope, assumptions, constraints, governance structure, and project authorization.
+-  **[Project Charter (GEN-CH-001)](01-initiation/01-project-charter.md):** Defines project objectives, business case, high-level scope, assumptions, constraints, governance structure, and project authorization.
 
-- 👥 **[Stakeholder Register & RACI Matrix (GEN-STK-001)](01-initiation/02-stakeholder-and-raci-register.md):** Identifies project stakeholders, evaluates power and interest, documents stakeholder expectations, establishes engagement strategies, and defines responsibility and decision-making assignments.
+-  **[Stakeholder Register & RACI Matrix (GEN-STK-001)](01-initiation/02-stakeholder-and-raci-register.md):** Identifies project stakeholders, evaluates power and interest, documents stakeholder expectations, establishes engagement strategies, and defines responsibility and decision-making assignments.
 
-### 🟡 02. Planning & Governance (`/02-planning`)
+###  02. Planning & Governance (`/02-planning`)
 
 Establishing the integrated planning baselines and management processes required for controlled project delivery.
 
-- 📐 **[Scope Baseline (GEN-SBL-001)](02-planning/01-scope-baseline.md):** Integrates the Project Scope Statement, Work Breakdown Structure (WBS), WBS Dictionary, deliverable acceptance criteria, assumptions, constraints, and scope change-control procedures.
+-  **[Scope Baseline (GEN-SBL-001)](02-planning/01-scope-baseline.md):** Integrates the Project Scope Statement, Work Breakdown Structure (WBS), WBS Dictionary, deliverable acceptance criteria, assumptions, constraints, and scope change-control procedures.
 
-- 🛡️ **[Risk Register (GEN-RSK-001)](02-planning/02-risk-register.md):** Identifies and evaluates project risks using qualitative Probability × Impact (P×I) assessment, numerical risk scoring, mitigation strategies, risk ownership, and escalation criteria. Includes considerations relating to applicable Omani regulatory and data protection requirements.
+-  **[Risk Register (GEN-RSK-001)](02-planning/02-risk-register.md):** Identifies and evaluates project risks using qualitative Probability × Impact (P×I) assessment, numerical risk scoring, mitigation strategies, risk ownership, and escalation criteria. Includes considerations relating to applicable Omani regulatory and data protection requirements.
 
-- 📡 **[Communication Management Plan (GEN-COM-001)](02-planning/03-communication-plan.md):** Defines stakeholder communication requirements, communication channels, reporting cadence, 5W1H principles, RAG status reporting, escalation procedures, and information security practices.
+-  **[Communication Management Plan (GEN-COM-001)](02-planning/03-communication-plan.md):** Defines stakeholder communication requirements, communication channels, reporting cadence, 5W1H principles, RAG status reporting, escalation procedures, and information security practices.
 
-- 📅 **Schedule Baseline (GEN-SCH-001):** Defines project activity sequencing, milestone timelines, task dependencies, resource considerations, and critical path analysis where applicable.
+-  **Schedule Baseline (GEN-SCH-001):** Defines project activity sequencing, milestone timelines, task dependencies, resource considerations, and critical path analysis where applicable.
 
-- 💰 **Budget Baseline (GEN-BGT-001):** Documents project cost estimates, budget categories, financial assumptions, contingency considerations, and expenditure control procedures.
+-  **Budget Baseline (GEN-BGT-001):** Documents project cost estimates, budget categories, financial assumptions, contingency considerations, and expenditure control procedures.
 
-- 🎯 **Quality Management Plan (GEN-QMP-001):** Establishes quality requirements, deliverable acceptance criteria, verification procedures, and appropriate quality assurance and quality control practices.
+-  **Quality Management Plan (GEN-QMP-001):** Establishes quality requirements, deliverable acceptance criteria, verification procedures, and appropriate quality assurance and quality control practices.
 
-- 🏁 **Project Kickoff Agenda (GEN-KOF-001):** Defines the formal project kickoff agenda, stakeholder alignment, communication expectations, delivery responsibilities, and execution readiness requirements.
+-  **Project Kickoff Agenda (GEN-KOF-001):** Defines the formal project kickoff agenda, stakeholder alignment, communication expectations, delivery responsibilities, and execution readiness requirements.
 
-### 🔵 03. Execution (`/03-execution`)
+###  03. Execution (`/03-execution`)
 
 Implementing the approved project scope through coordinated technical activities, operational workflows, and deliverable development.
 
-- ⚡ **Agile & Operational Workflows:** Task management, iterative delivery, backlog coordination, workflow configuration, and execution tracking using Asana and GitHub.
+-  **Agile & Operational Workflows:** Task management, iterative delivery, backlog coordination, workflow configuration, and execution tracking using Asana and GitHub.
 
-- ☁️ **Technical & Operational Deliverables:** Implementation of digital infrastructure, corporate email, cloud services, bilingual corporate website, and operational systems.
+-  **Technical & Operational Deliverables:** Implementation of digital infrastructure, corporate email, cloud services, bilingual corporate website, and operational systems.
 
-- 📑 **Commercial & Legal Template Suite:** Development and preparation of standardized business and contractual templates.
+-  **Commercial & Legal Template Suite:** Development and preparation of standardized business and contractual templates.
 
   Planned deliverables:
 
@@ -86,35 +86,35 @@ Implementing the approved project scope through coordinated technical activities
 
 - 📖 **Standard Operating Procedures (SOPs):** Documented administrative processes, IT support workflows, service delivery procedures, and implementation checklists.
 
-### 🟣 04. Monitoring & Controlling (`/04-monitoring-control`)
+###  04. Monitoring & Controlling (`/04-monitoring-control`)
 
 Monitoring project performance, evaluating deviations, managing changes, and maintaining control over approved project baselines.
 
-- 🔄 **Change Log:** Formal tracking, impact assessment, and approval records for proposed, approved, and rejected change requests.
+-  **Change Log:** Formal tracking, impact assessment, and approval records for proposed, approved, and rejected change requests.
 
-- ⚠️ **Issue Log:** Identification, ownership, escalation, monitoring, and resolution of project issues and operational blockers.
+-  **Issue Log:** Identification, ownership, escalation, monitoring, and resolution of project issues and operational blockers.
 
-- 🎯 **Decision Log:** Traceable records of material technical, commercial, financial, and governance decisions.
+-  **Decision Log:** Traceable records of material technical, commercial, financial, and governance decisions.
 
-- 📋 **Deliverable Acceptance Register:** Documented reviews, acceptance decisions, outstanding issues, and approved exceptions for project deliverables D1–D7.
+-  **Deliverable Acceptance Register:** Documented reviews, acceptance decisions, outstanding issues, and approved exceptions for project deliverables D1–D7.
 
-- 📊 **Status Reports:** Weekly project status updates, RAG assessments, milestone progress, schedule variance, and budget performance reporting.
+-  **Status Reports:** Weekly project status updates, RAG assessments, milestone progress, schedule variance, and budget performance reporting.
 
-### 🔴 05. Closure & Retrospective (`/05-closure`)
+###  05. Closure & Retrospective (`/05-closure`)
 
 Formally closing the project, transferring operational assets, documenting lessons learned, and evaluating overall delivery performance.
 
-- 📊 **Project Closeout Report:** Final evaluation of project performance against approved scope, schedule, cost, and acceptance requirements.
+-  **Project Closeout Report:** Final evaluation of project performance against approved scope, schedule, cost, and acceptance requirements.
 
-- 🔑 **Asset Handover Checklist:** Verification and transfer of cloud accounts, technical documentation, GitHub repositories, operational resources, and relevant business assets under authorized organizational control.
+-  **Asset Handover Checklist:** Verification and transfer of cloud accounts, technical documentation, GitHub repositories, operational resources, and relevant business assets under authorized organizational control.
 
-- 💡 **Lessons Learned Register:** Documented retrospective findings, improvement opportunities, and recommendations for future projects.
+-  **Lessons Learned Register:** Documented retrospective findings, improvement opportunities, and recommendations for future projects.
 
-- 💳 **Final Budget Summary:** Reconciliation of approved budget, committed expenditure, actual costs, and outstanding financial obligations.
+-  **Final Budget Summary:** Reconciliation of approved budget, committed expenditure, actual costs, and outstanding financial obligations.
 
 ---
 
-## 📊 Project Status & Documentation Progress
+##  Project Status & Documentation Progress
 
 The following table provides an overview of the documentation development status.
 
@@ -139,7 +139,7 @@ Project status and documentation progress will be updated as work packages and d
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 The following tools support the planning, coordination, documentation, and implementation activities of Project Genesis.
 
@@ -164,7 +164,7 @@ This repository follows an information security and controlled-documentation app
 
 ---
 
-## 📚 Project Management Approach & Learning Resources
+##  Project Management Approach & Learning Resources
 
 ### Primary Learning Resource
 
@@ -218,7 +218,7 @@ This repository is a project management portfolio and documentation initiative, 
 
 ---
 
-## 👤 Author & Project Lead
+##  Author & Project Lead
 
 **Masoud Shafiezadeh Neyestanak**
 
@@ -236,7 +236,7 @@ This repository reflects the practical application of project management concept
 
 ---
 
-## 🎯 Project Portfolio Objective
+##  Project Portfolio Objective
 
 Project Genesis is intended to demonstrate how project management concepts can be translated into a structured and practical operational initiative.
 
