@@ -1,1 +1,257 @@
+# Project Schedule Baseline — Project Genesis
+
+| Document Metadata | Details |
+|---|---|
+| **Document ID** | GEN-SCH-001 |
+| **Project Name** | Project Genesis — Enterprise Operational Infrastructure & Service Workflows Launch |
+| **Document Type** | Project Schedule Baseline |
+| **Project Location** | Bousher and Barka, Sultanate of Oman |
+| **Primary Learning Resource** | Google Project Management Professional Certificate (Coursera) |
+| **Project Management Approach** | Hybrid Project Management — structured governance combined with iterative and Agile delivery practices |
+| **Document Owner** | Lead Project Manager |
+| **Version** | 1.0 |
+| **Status** | Draft — Review Pending |
+| **Last Updated** | 6 November 2026 |
+| **Planned Duration** | 8 Calendar Weeks (Nominally 40 Business Days) |
+| **Planned Start Date** | To be confirmed |
+| **Target Completion Date** | To be confirmed |
+| **Related Documents** | `01-initiation/project-charter.md` (GEN-CH-001); `01-initiation/stakeholder-register.md` (GEN-STK-001); `02-planning/scope-baseline.md` (GEN-SBL-001); `02-planning/risk-register.md` (GEN-RSK-001); `02-planning/communication-management-plan.md` (GEN-COM-001) |
+
+---
+
+## 1. Purpose and Schedule Objectives
+
+### 1.1 Purpose
+
+This document establishes the planned schedule framework for Project Genesis, translating the approved Work Breakdown Structure (WBS) into a time-based delivery plan.
+
+It defines the planned activity sequence, estimated durations, dependencies, resource responsibilities, milestone targets, and preliminary critical path considerations required to coordinate and control project execution.
+
+The Schedule Baseline will serve as the reference point for monitoring schedule performance, evaluating delays, coordinating resources, and assessing the impact of proposed changes.
+
+### 1.2 Schedule Objectives
+
+The objectives of this schedule are to:
+
+- Translate the WBS work packages into an executable activity schedule.
+- Define logical activity sequencing and dependencies.
+- Estimate the duration required for each work package.
+- Assign activity ownership in alignment with the Stakeholder Register and RACI Matrix.
+- Establish milestone targets across the eight-week delivery window.
+- Identify activities that may run in parallel.
+- Identify potential critical-path activities and schedule constraints.
+- Provide a measurable basis for tracking progress and forecast completion.
+- Establish procedures for monitoring schedule deviations and approving baseline changes.
+
+### 1.3 Schedule Baseline Principle
+
+The schedule must remain consistent with the approved Scope Baseline (GEN-SBL-001).
+
+Every scheduled activity must be traceable to a corresponding WBS code or an explicitly authorized project management activity.
+
+The schedule does not authorize additional scope, expenditure, or resource commitments beyond the approved project baseline and delegated authority.
+
+---
+
+## 2. Schedule Basis and Planning Assumptions
+
+### 2.1 Planned Project Duration
+
+The initial project duration is eight calendar weeks.
+
+For planning purposes, this is equivalent to approximately 40 business days, assuming a five-day working week.
+
+The actual working-day calendar must be confirmed against the organization's operating calendar in Oman, taking applicable weekends, public holidays, and contributor availability into consideration.
+
+The planned start and completion dates will be established after the project schedule and relevant planning baselines have received the required approval.
+
+### 2.2 Schedule Assumptions
+
+The schedule is based on the following assumptions:
+
+- The Project Charter and Scope Baseline will receive the required authorization before baseline-dependent execution begins.
+- Key stakeholders and designated contributors will be available during their assigned work periods.
+- The Project Sponsor will provide required decisions within agreed review periods.
+- External legal review will be available during the planned documentation review window.
+- Required domain, hosting, cloud, and SaaS services will be available within reasonable provisioning periods.
+- Corporate registration information and approved business content will be available for verification.
+- Technical and marketing activities can be performed in parallel where dependencies permit.
+- Contractor responsibilities and availability will be confirmed before the relevant work packages are scheduled for execution.
+- Material regulatory and security dependencies will be addressed before the affected production activities begin.
+
+### 2.3 Duration Estimation Approach
+
+Initial work-package durations are planning estimates.
+
+They are based on the anticipated task complexity, scope, dependencies, and the proposed resource model.
+
+The estimates must be reviewed and validated by the relevant activity owners before the schedule is formally approved.
+
+The following methods may be used where appropriate:
+
+- Expert judgment.
+- Analogous estimation based on comparable activities.
+- Bottom-up estimation for decomposed work packages.
+- Three-point estimation where significant duration uncertainty exists.
+
+No historical project performance data is currently assumed to be available.
+
+The initial estimates must therefore not be treated as measured historical productivity or guaranteed completion times.
+
+### 2.4 Schedule Constraints
+
+The principal schedule constraints are:
+
+- Eight-calendar-week planned execution window.
+- Limited availability of specialist contractors.
+- External legal and regulatory review dependencies.
+- Domain registration and third-party provisioning requirements.
+- Approval dependencies for commercial and legal documents.
+- The approved project scope and financial envelope.
+
+Any forecast delay that threatens the project completion date must be assessed and escalated through project governance.
+
+---
+
+## 3. Activity Definition and Sequencing
+
+### 3.1 Activity Identification
+
+Project activities are derived from the lowest-level work packages in the Scope Baseline (GEN-SBL-001).
+
+Each scheduled activity retains its original WBS code to support traceability between scope definition, responsibility assignment, and schedule monitoring.
+
+### 3.2 Dependency Types
+
+The following dependency types may be used in the detailed schedule:
+
+| Dependency Type | Description |
+|---|---|
+| Finish-to-Start (FS) | The successor activity cannot begin until the predecessor activity is completed. |
+| Start-to-Start (SS) | The successor activity may begin once the predecessor has started and the required conditions are satisfied. |
+| Finish-to-Finish (FF) | The successor activity cannot finish until the predecessor activity has finished. |
+| External Dependency | The activity depends on a third party, vendor, regulator, or other party outside the immediate project team's control. |
+
+Finish-to-Start is the default dependency used in the preliminary schedule unless another logical relationship is explicitly justified.
+
+### 3.3 Parallel Activities
+
+Where dependencies permit, technical, administrative, legal, and marketing activities may be executed concurrently.
+
+Examples include:
+
+- Stakeholder identification and initial risk assessment.
+- Domain provisioning and commercial template drafting.
+- Asana workspace configuration and GitHub repository setup.
+- Website development and legal template preparation.
+- Service catalogue content preparation and SOP documentation.
+
+Parallel execution must not compromise quality, regulatory requirements, resource availability, or formal approval controls.
+
+---
+
+## 4. Detailed Activity Schedule
+
+The following schedule translates the 28 lowest-level WBS work packages into estimated durations, dependencies, and planned delivery windows.
+
+All durations are expressed in business days.
+
+The predecessor column identifies logical dependencies. Some activities may overlap within the same target week when their resource and approval requirements permit.
+
+### 4.1 Initiation and Planning Baseline
+
+| WBS Code | Activity | Duration | Planned Window | Predecessor(s) | Responsible Role | Accountable Owner |
+|---|---|---:|---|---|---|---|
+| **1.1.1** | Project Charter & Authorization | 2 days | Week 1 | None | Lead PM | Project Sponsor |
+| **1.1.2** | Stakeholder Register & RACI | 2 days | Week 1 | 1.1.1 (initial authorization) | Lead PM | Project Sponsor |
+| **1.1.3** | Initial Risk Register | 2 days | Weeks 1–2 | 1.1.1, 1.1.2 | Lead PM | Lead PM |
+| **1.1.4** | Scope, Schedule & Cost Baseline Review and Approval | 2 days | Week 2 | 1.1.1, 1.1.2, 1.1.3; draft planning documents available | Lead PM | Project Sponsor |
+
+**Planning Note:** Draft planning documents are prepared before the baseline approval activity. Early preparatory work may proceed in parallel only where separately authorized and within delegated authority.
+
+### 4.2 Digital Infrastructure Foundation — D1
+
+| WBS Code | Activity | Duration | Planned Window | Predecessor(s) | Responsible Role | Accountable Owner |
+|---|---|---:|---|---|---|---|
+| **1.2.1** | Corporate Domain & DNS Provisioning | 5 days | Weeks 1–2 | 1.1.1; relevant registration and domain eligibility information | Lead Software & Cloud Engineer | Lead PM |
+| **1.2.2** | Corporate Workspace & Email Setup | 3 days | Week 2 | 1.2.1 | Lead Software & Cloud Engineer | Lead PM |
+| **1.2.3** | Identity, Access & Security Controls | 2 days | Week 2 | 1.2.2 | Lead Software & Cloud Engineer | Lead PM |
+
+### 4.3 Corporate Web Presence — D2
+
+| WBS Code | Activity | Duration | Planned Window | Predecessor(s) | Responsible Role | Accountable Owner |
+|---|---|---:|---|---|---|---|
+| **1.3.1** | Bilingual Content & Brand Preparation | 5 days | Weeks 2–3 | 1.6.1; approved corporate information and brand inputs | Marketing Lead | Lead PM |
+| **1.3.2** | Website Implementation & Hosting | 10 days | Weeks 3–5 | 1.2.1, 1.3.1 | Lead Software & Cloud Engineer | Lead PM |
+| **1.3.3** | Production Website Release | 1 day | Week 6 | 1.3.4 | Lead Software & Cloud Engineer | Lead PM |
+| **1.3.4** | Website Quality & Security Testing | 3 days | Week 6 | 1.3.2 | Lead Software & Cloud Engineer | Lead PM |
+
+**Sequencing Note:** Website testing must be completed before the final production release. The WBS numbering identifies work packages but does not override their logical execution sequence.
+
+### 4.4 Commercial and Legal Template Suite — D3
+
+| WBS Code | Activity | Duration | Planned Window | Predecessor(s) | Responsible Role | Accountable Owner |
+|---|---|---:|---|---|---|---|
+| **1.4.1** | SOW & NDA Templates | 3 days | Weeks 2–3 | 1.1.1; approved business requirements | Lead PM | Lead PM |
+| **1.4.2** | MSA & SLA Templates | 3 days | Weeks 3–4 | 1.4.1 | Lead PM | Lead PM |
+| **1.4.3** | Commercial Proposal Template | 2 days | Weeks 3–4 | 1.4.1; approved commercial inputs | Marketing Lead | Lead PM |
+| **1.4.4** | External Legal Review | 5 days | Week 4 | 1.4.1, 1.4.2, 1.4.3 | External Legal Adviser | Lead PM |
+
+Legal review duration is a provisional estimate and depends on the availability of the external adviser and the complexity of review comments.
+
+### 4.5 Operational Workspace and Workflows — D4
+
+| WBS Code | Activity | Duration | Planned Window | Predecessor(s) | Responsible Role | Accountable Owner |
+|---|---|---:|---|---|---|---|
+| **1.5.1** | Asana Workspace Configuration | 3 days | Weeks 2–3 | 1.1.2 | Lead PM | Lead PM |
+| **1.5.2** | SOP & Operational Checklist Development | 4 days | Weeks 3–4 | 1.5.1, 1.6.1 | Lead PM | Lead PM |
+| **1.5.3** | GitHub Repository & Secret Management Controls | 2 days | Week 2 | 1.1.1 | Lead Software & Cloud Engineer | Lead PM |
+
+### 4.6 Digital Service Catalogue — D5
+
+| WBS Code | Activity | Duration | Planned Window | Predecessor(s) | Responsible Role | Accountable Owner |
+|---|---|---:|---|---|---|---|
+| **1.6.1** | CR Activity Verification & Service Mapping | 2 days | Weeks 1–2 | 1.1.1; official CR information available | Lead PM | Lead PM |
+| **1.6.2** | Service Catalogue Content Preparation | 4 days | Weeks 4–5 | 1.6.1, 1.3.1; approved service and commercial inputs | Marketing Lead | Lead PM |
+| **1.6.3** | Service Catalogue Publication | 1 day | Week 6 | 1.6.2, 1.3.3 | Marketing Lead | Lead PM |
+
+### 4.7 Client Outreach Package — D6
+
+| WBS Code | Activity | Duration | Planned Window | Predecessor(s) | Responsible Role | Accountable Owner |
+|---|---|---:|---|---|---|---|
+| **1.7.1** | SME Prospect Identification & Qualification | 3 days | Weeks 6–7 | 1.6.1, preliminary service portfolio information | Marketing Lead | Lead PM |
+| **1.7.2** | Proposal Customization | 3 days | Weeks 7–8 | 1.4.4, 1.6.2, 1.7.1 | Marketing Lead | Lead PM |
+| **1.7.3** | Proposal Dispatch & Outreach Register | 1 day | Week 8 | 1.7.2; required commercial authorization and applicable marketing compliance checks | Marketing Lead | Lead PM |
+
+### 4.8 Project Closeout Package — D7
+
+| WBS Code | Activity | Duration | Planned Window | Predecessor(s) | Responsible Role | Accountable Owner |
+|---|---|---:|---|---|---|---|
+| **1.8.1** | Deliverable Acceptance Review | 2 days | Week 8 | Completion and evidence for D1–D6 | Lead PM | Project Sponsor |
+| **1.8.2** | Asset Handover & Outstanding Actions | 2 days | Week 8 | Relevant technical and operational deliverables completed | Relevant Asset Owners, coordinated by Lead PM | Lead PM |
+| **1.8.3** | Lessons Learned Retrospective | 1 day | Week 8 | Major project delivery activities substantially completed | Lead PM | Lead PM |
+| **1.8.4** | Closeout Report & Sponsor Sign-Off | 2 days | Week 8 | 1.8.1, 1.8.2, 1.8.3 | Lead PM | Project Sponsor |
+
+---
+
+## 5. High-Level Weekly Schedule
+
+The following table summarizes the planned distribution of major activities across the eight-week project window.
+
+| Week | Main Activities | Expected Outputs |
+|---|---|---|
+| **Week 1** | Project authorization, stakeholder identification, initial risk assessment, CR activity verification, domain provisioning initiation. | Initial governance and project setup activities initiated. |
+| **Week 2** | Planning baseline review, cloud workspace and email setup, MFA and access controls, GitHub and Asana configuration, initial contract drafting, bilingual content preparation. | Digital infrastructure foundation and planning controls progressing. |
+| **Week 3** | Website development, commercial and legal template preparation, Asana workflow configuration, SOP development, service catalogue preparation. | Core technical, legal, and operational work packages underway. |
+| **Week 4** | Continued website development, external legal review, SOP completion, service catalogue content preparation. | Legal review completed or material comments documented; operational workflows prepared. |
+| **Week 5** | Website implementation completion, final service catalogue content review, technical preparation for production testing. | Website ready for formal testing; catalogue content ready for publication review. |
+| **Week 6** | Website quality and security testing, production website release, service catalogue publication, initial SME prospect qualification. | Bilingual website and service catalogue launched; outreach preparation underway. |
+| **Week 7** | SME prospect qualification, proposal customization, commercial review and approval coordination. | Customized proposals prepared for qualified prospects. |
+| **Week 8** | Dispatch of five proposals, deliverable acceptance, technical and operational handover, lessons learned, and project closure. | Project closeout package and sponsor sign-off. |
+
+Activities may overlap where their dependencies and resource requirements permit.
+
+The weekly schedule is a planning view and does not replace the detailed WBS-based activity schedule.
+
+---
 
