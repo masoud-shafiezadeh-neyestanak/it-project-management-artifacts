@@ -396,4 +396,214 @@ Unallocated time must not automatically be treated as available capacity for add
 
 ---
 
+## 8. Resource and Responsibility Assignment
 
+Schedule ownership must remain consistent with the Stakeholder Register and RACI Matrix (GEN-STK-001).
+
+The following roles are assigned at the planning level:
+
+| Role | Schedule Responsibility |
+|---|---|
+| Project Sponsor | Approves the schedule baseline and material schedule changes. |
+| Lead Project Manager | Develops and maintains the schedule, coordinates dependencies, tracks progress, and escalates forecast delays. |
+| Lead Software & Cloud Engineer | Estimates and executes technical work packages, validates technical dependencies, and reports implementation progress. |
+| Marketing Lead | Estimates and executes content, catalogue, and client outreach activities. |
+| External Legal Adviser | Performs assigned legal review and communicates review findings within the agreed engagement. |
+| Authorized Company Signatory | Provides required business and commercial approvals before commitments are made. |
+| Data Protection Officer | Supports relevant privacy and data protection reviews where applicable. |
+| Database Administrator | Performs assigned database work if required by the approved technical architecture. |
+
+### 8.1 Resource Availability
+
+The schedule assumes that assigned contributors will be available during their planned activity windows.
+
+Actual availability, contractual working arrangements, and potential resource conflicts must be confirmed before final approval.
+
+No individual resource capacity is assumed beyond the assignments and availability formally agreed with the relevant contributors.
+
+### 8.2 Resource Conflicts
+
+If a contributor is assigned to overlapping activities that cannot reasonably be performed in parallel, the Lead Project Manager must:
+
+- Review task priorities and dependencies.
+- Identify alternative sequencing options.
+- Assess schedule and cost impacts.
+- Reassign work only within authorized resource arrangements.
+- Submit material changes for Project Sponsor approval where required.
+
+---
+
+## 9. Schedule Monitoring and Control
+
+### 9.1 Progress Tracking
+
+The Lead Project Manager will monitor schedule performance throughout project execution.
+
+Progress will be tracked using:
+
+- WBS activity completion.
+- Actual start and finish dates.
+- Forecast completion dates.
+- Milestone achievement.
+- Outstanding dependencies.
+- Overdue tasks.
+- Resource availability.
+- Approved and pending change requests.
+
+Asana will be used for operational task tracking, while the controlled project repository will retain the approved schedule baseline and relevant governance records.
+
+### 9.2 Schedule Reporting
+
+Schedule status will be included in the weekly project status report.
+
+Reports should identify:
+
+- Planned versus actual progress.
+- Milestones completed and upcoming.
+- Forecast schedule deviations.
+- Critical dependencies and blockers.
+- Activities at risk of delay.
+- Required corrective actions.
+- Decisions requiring Sponsor intervention.
+
+### 9.3 Schedule Variance and Escalation
+
+The following thresholds align with the Project Communication Management Plan (GEN-COM-001).
+
+| Condition | Required Response |
+|---|---|
+| Minor deviation within the agreed activity duration | Task Owner monitors and corrects as appropriate. |
+| Forecast delay exceeding two business days or threatening a milestone | Lead PM assesses the impact and initiates corrective action. |
+| Forecast delay exceeding five business days or threatening the project completion date | Escalate to the Project Sponsor with a recovery or change recommendation. |
+| Material dependency or external approval delay | Escalate according to impact and urgency. |
+| Schedule change affecting the approved completion date or baseline | Formal Change Request and Sponsor approval required. |
+
+These thresholds are management triggers and must not be treated as permission to ignore material schedule risks below the stated values.
+
+### 9.4 Schedule Change Control
+
+Any material change affecting the approved schedule baseline must be documented through the project Change Request process.
+
+The Lead Project Manager will assess:
+
+- Activity duration changes.
+- Dependency changes.
+- Milestone impacts.
+- Resource availability.
+- Cost implications.
+- Quality and compliance consequences.
+- Impact on the final project completion date.
+
+Material baseline changes require Project Sponsor approval before implementation.
+
+Approved changes must be recorded in the Change Log and incorporated into the controlled schedule document.
+
+### 9.5 Schedule Baseline Updates
+
+The original approved schedule baseline must remain identifiable for performance comparison.
+
+Revisions must be version-controlled and must include:
+
+- Revision date.
+- Reason for change.
+- Description of affected activities or milestones.
+- Schedule impact assessment.
+- Approval reference.
+- Updated baseline version where authorized.
+
+The schedule baseline must not be silently overwritten when actual progress differs from the original plan.
+
+---
+
+## 10. Schedule Risks and Constraints
+
+The following risks may materially influence the planned completion date.
+
+| Risk Reference | Schedule Risk | Potential Impact | Management Response |
+|---|---|---|---|
+| RSK-001 | Cloud architecture or configuration delays | Delayed technical readiness and website deployment | Confirm the target architecture early and validate access and provisioning requirements. |
+| RSK-002 | Commercial registration or regulatory clarification delays | Delayed service verification and public-facing claims | Initiate verification early and engage the appropriate adviser. |
+| RSK-003 | Scope creep | Increased workload and schedule slippage | Enforce formal change control. |
+| RSK-005 | Contractual or service definition issues | Delayed legal approval and commercial proposal preparation | Conduct early business and legal review. |
+| RSK-007 | Personal data protection compliance gaps | Delayed website forms or client outreach | Complete relevant privacy review before affected processing activities begin. |
+| RSK-008 | Cybersecurity or credential exposure | Service disruption, investigation, and recovery delays | Implement baseline security controls and maintain incident response arrangements. |
+| RSK-010 | Approval and dependency delays | Threat to planned milestones and project completion | Track decision deadlines and escalate outstanding approvals. |
+| RSK-011 | Weak initial client engagement | Reduced effectiveness of the outreach campaign | Qualify suitable prospects and prepare targeted proposals. |
+
+Risk owners remain responsible for reporting material changes in risk exposure to the Lead Project Manager.
+
+---
+
+## 11. Schedule Performance and Completion Criteria
+
+Project Genesis will be considered schedule-complete when:
+
+- The approved project deliverables have reached their documented completion and acceptance stages.
+- The agreed milestone requirements have been satisfied or formally approved exceptions have been recorded.
+- Five formal client proposals have been dispatched and their evidence retained.
+- Technical and operational handover requirements have been completed.
+- Outstanding schedule-related issues have been assigned owners and follow-up dates.
+- The Project Closeout Report has been prepared.
+- The Project Sponsor or authorized delegate has formally approved project closure.
+
+The planned eight-week duration is a target, not a guarantee of commercial, operational, or regulatory outcomes.
+
+Any decision to extend or revise the duration must follow the schedule change-control process.
+
+---
+
+## 12. Document Control and Approval
+
+### 12.1 Approval Record
+
+| Role | Name | Approval Action | Date |
+|---|---|---|---|
+| Project Sponsor | To be confirmed | Pending Approval | To be recorded |
+| Lead Project Manager | Masoud | Prepared and Submitted for Review | 6 November 2026 |
+
+### 12.2 Revision History
+
+| Version | Date | Author | Description of Change | Status |
+|---|---|---|---|---|
+| 1.0 | 6 November 2026 | Lead Project Manager | Initial Schedule Baseline document, including activity sequencing, duration estimates, resource assignments, milestone plan, preliminary critical path considerations, and schedule control procedures. | Draft — Review Pending |
+
+### 12.3 Approval Statement
+
+This document becomes the approved Project Schedule Baseline only after the Project Sponsor or formally authorized delegate has recorded approval.
+
+Until approval is recorded, the schedule remains a proposed planning baseline and must not be treated as independent authorization to incur expenditure or undertake work beyond existing delegated authority.
+
+Material changes to the approved schedule must follow the project's change-control procedure.
+
+---
+
+## 13. Reference Resources
+
+### 13.1 Primary Learning Resource
+
+**Google Project Management Professional Certificate — Coursera**
+
+https://www.coursera.org/professional-certificates/google-project-management
+
+Educational resource informing practical scheduling, activity sequencing, estimation, dependency management, and project coordination methods.
+
+### 13.2 Related Project Documents
+
+1. Project Charter — GEN-CH-001.  
+   `01-initiation/project-charter.md`
+
+2. Stakeholder Register & RACI Matrix — GEN-STK-001.  
+   `01-initiation/stakeholder-register.md`
+
+3. Scope Baseline — GEN-SBL-001.  
+   `02-planning/scope-baseline.md`
+
+4. Risk Register — GEN-RSK-001.  
+   `02-planning/risk-register.md`
+
+5. Communication Management Plan — GEN-COM-001.  
+   `02-planning/communication-management-plan.md`
+
+---
+
+**End of Document**
