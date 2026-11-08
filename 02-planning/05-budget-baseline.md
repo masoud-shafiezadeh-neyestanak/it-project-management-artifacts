@@ -1,12 +1,14 @@
 # Project Budget Baseline — Project Genesis
 
-**Document ID:** GEN-BGT-001  
-**Project:** Project Genesis — Enterprise Operational Infrastructure & Service Workflows Launch  
-**Document Owner:** Lead Project Manager  
-**Version:** 1.0  
-**Date:** 8 November 2026  
-**Status:** Draft — Review Pending  
-**Currency:** USD (primary), OMR (reference)
+| Document Information | Details |
+|---|---|
+| Document ID | GEN-BGT-001 |
+| Project | Project Genesis — Enterprise Operational Infrastructure & Service Workflows Launch |
+| Document Owner | Lead Project Manager |
+| Version | 1.0 |
+| Date | 8 November 2026 |
+| Status | Draft — Review Pending |
+| Currency | USD (primary), OMR (reference) |
 
 ---
 
