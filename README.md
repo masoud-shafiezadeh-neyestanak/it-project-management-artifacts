@@ -138,7 +138,7 @@ The following table reflects the current publication and review position. Where 
 
 | Document | Document ID | Current Documentation Status |
 |---|---|---|
-| Project Charter | GEN-CH-001 | Published; source document states “Approved & Active” — authorization evidence and sign-off record to be revalidated |
+| Project Charter | GEN-CH-001 | Version 1.1 — Revised Draft; Sponsor Verbal Endorsement Received; Formal Approval Pending |
 | Stakeholder Register & RACI Matrix | GEN-STK-001 | Version 2.0 — Revised Draft; Review Pending |
 | Scope Baseline | GEN-WBS-001 (published identifier) | Published — Pending Approval; harmonization with GEN-SBL-001 references required |
 | Risk Register | GEN-RSK-001 | Published — Pending Approval |
