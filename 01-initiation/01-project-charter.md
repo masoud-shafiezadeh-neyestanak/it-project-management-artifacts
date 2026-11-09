@@ -4,8 +4,9 @@
 |---|---|
 | **Document ID** | GEN-CH-001 |
 | **Project Name** | Project Genesis — Enterprise Operational Infrastructure & Service Workflows Launch |
+| **Organization** | Bridge of Tomorrow |
 | **Document Type** | Project Charter |
-| **Organization** | Oman-registered company (legal name omitted from public repository) |
+| **Organization Location** | Sultanate of Oman |
 | **Commercial Registration Status** | Active |
 | **Project Manager** | Masoud Shafiezadeh Neyestanak |
 | **Document Owner** | Project Manager |
@@ -25,7 +26,7 @@
 
 ### 1.1 Project Overview
 
-Project Genesis is a real internal business and operational readiness initiative being undertaken within an Oman-registered company with an active Commercial Registration (CR).
+Project Genesis is a real internal business and operational readiness initiative being undertaken within **Bridge of Tomorrow**, an Oman-registered company with an active Commercial Registration (CR).
 
 The project focuses on establishing and strengthening the company's digital infrastructure, corporate web presence, commercial documentation, operational management environment, service portfolio, and initial client outreach capabilities.
 
@@ -33,13 +34,13 @@ The initiative is intended to support the company's actual business activities b
 
 Project Genesis will use a Hybrid Project Management approach, combining structured governance, documented responsibilities, approval checkpoints, and baseline controls with iterative implementation and testing where appropriate.
 
-The project is managed by the appointed Project Manager, who is responsible for coordinating planning, execution, monitoring, stakeholder engagement, risk management, and project documentation within the authority delegated by the Project Sponsor.
+The project is managed by the Project Manager, who is responsible for coordinating planning, execution, monitoring, stakeholder engagement, risk management, and project documentation within the authority delegated by the Project Sponsor.
 
 ### 1.2 Business Case
 
 A sustainable and professionally managed business operation requires more than company registration. It also requires appropriate digital infrastructure, reliable administrative systems, documented operating procedures, standardized commercial documentation, and a credible corporate presence.
 
-Although the company has an active Commercial Registration, its operational capabilities and supporting business infrastructure require coordinated development.
+Although Bridge of Tomorrow has an active Commercial Registration, its operational capabilities and supporting business infrastructure require coordinated development.
 
 Project Genesis addresses these needs through the following activities:
 
@@ -58,15 +59,16 @@ The expected business outcome is a more organized and operationally capable comp
 
 | Field | Details |
 |---|---|
+| Organization Name | Bridge of Tomorrow |
 | Organization Type | Registered company operating in the Sultanate of Oman |
 | Commercial Registration | Active |
 | Registration Jurisdiction | Sultanate of Oman |
 | Project Locations | Bousher and Barka, Oman |
-| Company Legal Name | Maintained in internal company records; omitted from this public document |
+| Company Legal Name and Registration Details | Maintained in internal company records; sensitive registration details are not included in this public document |
 | Project Sponsor | Authorized company representative — formal designation to be confirmed |
 | Project Manager | Masoud Shafiezadeh Neyestanak |
 
-The company holds an active Commercial Registration. However, the exact registered activity descriptions, activity-level authorization, and any applicable licensing requirements must be checked against the current official registration and relevant requirements before the company publicly offers or performs the corresponding services.
+Bridge of Tomorrow holds an active Commercial Registration. However, the exact registered activity descriptions, activity-level authorization, and any applicable licensing requirements must be checked against the latest official CR before the corresponding services are advertised, offered, or performed.
 
 The project will not assume that company registration alone establishes authorization for every proposed service or commercial activity.
 
@@ -120,7 +122,7 @@ The following principles govern how project progress and completion are measured
 
 ## 3. Commercial Activity and Regulatory Alignment
 
-Project Genesis supports the development of the company's actual commercial and operational capabilities in Oman.
+Project Genesis supports the development of Bridge of Tomorrow's actual commercial and operational capabilities in Oman.
 
 The company holds an active Commercial Registration. The relevant registered activities and their applicable descriptions must be verified against the latest official CR before the corresponding services are advertised, included in the definitive service catalogue, or offered to customers.
 
@@ -505,7 +507,7 @@ The Risk Register will be reviewed at least weekly and whenever material changes
 
 The project is planned on the basis of the following assumptions:
 
-1. The company maintains an active Commercial Registration, and current registration details will be available for verification.
+1. Bridge of Tomorrow maintains an active Commercial Registration, and current registration details will be available for verification.
 2. The company will provide the necessary information and authorization for project-related business decisions.
 3. Required stakeholders and contributors will be available within the agreed project windows.
 4. Suitable cloud, domain, email, and collaboration services will be available on acceptable terms.
@@ -650,6 +652,7 @@ Any work continuing beyond the approved project scope or execution period must b
 
 | Field | Details |
 |---|---|
+| Organization | Bridge of Tomorrow |
 | Project Sponsor | Authorized Company Representative |
 | Verbal Endorsement | Received |
 | Nature of Endorsement | Preliminary support for the Project Genesis initiative and its general direction |
@@ -680,6 +683,8 @@ The Project Manager's preparation or acknowledgment of this document does not su
 |---|---|
 | Document ID | GEN-CH-001 |
 | Document Title | Project Charter — Project Genesis |
+| Organization | Bridge of Tomorrow |
+| Project | Project Genesis — Enterprise Operational Infrastructure & Service Workflows Launch |
 | Document Owner | Project Manager |
 | Approval Authority | Project Sponsor / Authorized Company Representative |
 | Version | 1.1 |
@@ -692,7 +697,7 @@ The Project Manager's preparation or acknowledgment of this document does not su
 | Version | Date | Description |
 |---|---|---|
 | 1.0 | Previous draft — October 2026 | Initial Project Charter prepared for Project Genesis. |
-| 1.1 | 9 November 2026 | Revised to reflect the actual registered company context, Project Manager role, verbal endorsement and pending formal approval, updated governance and decision rights, alignment with the seven Scope Baseline deliverables, and consistency with the current Risk Register and planning assumptions. |
+| 1.1 | 9 November 2026 | Revised to identify Bridge of Tomorrow as the implementing organization, reflect the actual registered company context, clarify the Project Manager role and verbal Sponsor endorsement, distinguish verbal support from formal approval, and align governance, deliverables, and planning assumptions with the current project documentation. |
 
 ---
 
