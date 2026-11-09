@@ -2,18 +2,17 @@
 
 ### Project Genesis — Enterprise Operational Infrastructure & Service Workflows Launch
 
-This repository contains the project management and operational documentation for **Project Genesis**, a real business initiative being implemented within a company registered in the Sultanate of Oman with an active Commercial Registration (CR).
+**Organization:** Bridge of Tomorrow  
+**Project:** Project Genesis  
+**Location:** Sultanate of Oman
 
-Project Genesis is not a simulated case study or a demonstration-only exercise. It is an actual company initiative focused on establishing and strengthening the organization's digital infrastructure, corporate presence, commercial documentation, internal workflows, and operational readiness.
+This repository contains the project management and operational documentation for Project Genesis, a real business and operational readiness initiative being implemented within **Bridge of Tomorrow**, an Oman-registered company with an active Commercial Registration (CR).
 
-The project is managed using a **Hybrid Project Management approach**, combining structured governance and documented approval controls with iterative delivery practices where appropriate. The management methods are informed by the **Google Project Management Professional Certificate (Coursera)** and are adapted to the company's actual business context, objectives, available resources, and operating requirements.
+Project Genesis focuses on establishing and strengthening the company's digital infrastructure, corporate presence, commercial documentation, operational workflows, and business development capabilities.
 
-This repository serves two connected purposes:
+The project is managed using a Hybrid Project Management approach, combining structured governance and documented approval controls with iterative delivery practices where appropriate.
 
-- **Operational use:** supporting the planning, coordination, implementation, monitoring, and closure of Project Genesis.
-- **Professional record:** maintaining a traceable record of project management work and practical experience gained by applying learned concepts in a real organizational environment.
-
-The public repository is maintained with due consideration for business confidentiality, information security, and applicable legal requirements. Sensitive company records, CR identifiers, credentials, client information, and confidential commercial or legal documents are not intended for public disclosure.
+The repository serves as both an operational documentation environment for the actual company project and a professional record of the practical project management experience gained through its implementation.
 
 ---
 
