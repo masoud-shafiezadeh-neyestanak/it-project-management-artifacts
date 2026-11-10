@@ -1,608 +1,689 @@
 # Project Schedule Baseline — Project Genesis
 
-| Document Metadata | Details |
+| Document Information | Details |
 |---|---|
 | **Document ID** | GEN-SCH-001 |
 | **Project Name** | Project Genesis — Enterprise Operational Infrastructure & Service Workflows Launch |
+| **Organization** | Bridge of Tomorrow |
 | **Document Type** | Project Schedule Baseline |
-| **Project Location** | Bousher and Barka, Sultanate of Oman |
-| **Primary Learning Resource** | Google Project Management Professional Certificate (Coursera) |
+| **Project Manager** | Masoud Shafiezadeh Neyestanak |
+| **Document Owner** | Project Manager |
+| **Project Locations** | Bousher and Barka, Sultanate of Oman |
+| **Version** | 1.1 |
+| **Date** | 10 November 2026 |
+| **Status** | Revised Draft — Formal Approval Pending |
 | **Project Management Approach** | Hybrid Project Management — structured governance combined with iterative and Agile delivery practices |
-| **Document Owner** | Lead Project Manager |
-| **Version** | 1.0 |
-| **Status** | Draft — Review Pending |
-| **Last Updated** | 6 November 2026 |
-| **Planned Duration** | 8 Calendar Weeks (Nominally 40 Business Days) |
+| **Planned Duration** | 8 calendar weeks (nominally 40 business days, assuming a five-day working week) |
 | **Planned Start Date** | To be confirmed |
 | **Target Completion Date** | To be confirmed |
-| **Related Documents** | `01-initiation/project-charter.md` (GEN-CH-001); `01-initiation/stakeholder-register.md` (GEN-STK-001); `02-planning/scope-baseline.md` (GEN-SBL-001); `02-planning/risk-register.md` (GEN-RSK-001); `02-planning/communication-management-plan.md` (GEN-COM-001) |
+| **Working Calendar** | Five-day working-week assumption; exact company working days and public holidays to be confirmed |
+| **Time Zone** | Oman Standard Time (GST, UTC+4) |
+| **Preliminary Budget Estimate** | USD 1,500–2,500 (approximately OMR 570–960); subject to detailed estimation and approval |
+| **Sponsor Endorsement Status** | Verbal endorsement received; formal designation and written approval pending |
+| **Related Documents** | Project Charter (GEN-CH-001); Stakeholder Register & RACI Matrix (GEN-STK-001); Scope Baseline (GEN-SBL-001); Risk Register (GEN-RSK-001); Communication Management Plan (GEN-COM-001) |
+| **Repository Location** | `02-planning/schedule-baseline.md` |
 
 ---
 
-## 1. Purpose and Schedule Objectives
+## 1. Purpose and Schedule Management Objectives
 
 ### 1.1 Purpose
 
-This document establishes the planned schedule framework for Project Genesis, translating the approved Work Breakdown Structure (WBS) into a time-based delivery plan.
+This document establishes the proposed schedule framework for Project Genesis, a real business and operational readiness initiative undertaken within Bridge of Tomorrow, an Oman-registered company with an active Commercial Registration (CR).
 
-It defines the planned activity sequence, estimated durations, dependencies, resource responsibilities, milestone targets, and preliminary critical path considerations required to coordinate and control project execution.
+The Schedule Baseline translates the approved or proposed Work Breakdown Structure into an activity-based delivery plan, identifying estimated durations, sequencing, dependencies, milestones, and responsibility assignments.
 
-The Schedule Baseline will serve as the reference point for monitoring schedule performance, evaluating delays, coordinating resources, and assessing the impact of proposed changes.
+The purpose is to provide a structured reference for coordinating project activities, monitoring delivery progress, managing dependencies, identifying schedule risks, and supporting timely decision-making.
 
-### 1.2 Schedule Objectives
+This document is intended to become the authorized Project Schedule Baseline after the relevant estimates, resource assignments, working calendar, dependencies, and approval requirements have been reviewed and formally approved.
 
-The objectives of this schedule are to:
+### 1.2 Schedule Management Objectives
 
-- Translate the WBS work packages into an executable activity schedule.
-- Define logical activity sequencing and dependencies.
-- Estimate the duration required for each work package.
-- Assign activity ownership in alignment with the Stakeholder Register and RACI Matrix.
-- Establish milestone targets across the eight-week delivery window.
-- Identify activities that may run in parallel.
-- Identify potential critical-path activities and schedule constraints.
-- Provide a measurable basis for tracking progress and forecast completion.
-- Establish procedures for monitoring schedule deviations and approving baseline changes.
+The schedule management objectives are to:
 
-### 1.3 Schedule Baseline Principle
+- Translate all 28 lowest-level WBS work packages into a coordinated activity schedule.
+- Establish preliminary duration estimates and planned delivery windows.
+- Identify logical activity dependencies and sequencing requirements.
+- Define key project milestones and completion evidence.
+- Align schedule ownership with the Stakeholder Register and RACI Matrix (GEN-STK-001).
+- Coordinate technical, commercial, legal, and operational workstreams.
+- Identify activities that may be performed concurrently.
+- Monitor schedule variance and forecast milestone completion.
+- Identify critical dependencies and potential delays.
+- Provide a basis for corrective action and formal schedule change control.
 
-The schedule must remain consistent with the approved Scope Baseline (GEN-SBL-001).
+### 1.3 Schedule Baseline Components
 
-Every scheduled activity must be traceable to a corresponding WBS code or an explicitly authorized project management activity.
+The Schedule Baseline consists of:
 
-The schedule does not authorize additional scope, expenditure, or resource commitments beyond the approved project baseline and delegated authority.
+1. Activity identification and decomposition based on the Scope Baseline.
+2. Activity duration estimates.
+3. Logical sequencing and dependency relationships.
+4. Planned activity windows and milestones.
+5. Responsibility and resource considerations.
+6. Schedule monitoring and change-control arrangements.
+7. Formal approval of the resulting schedule.
 
----
+The Schedule Baseline is a separate project management baseline from the Scope Baseline and Cost Baseline.
 
-## 2. Schedule Basis and Planning Assumptions
-
-### 2.1 Planned Project Duration
-
-The initial project duration is eight calendar weeks.
-
-For planning purposes, this is equivalent to approximately 40 business days, assuming a five-day working week.
-
-The actual working-day calendar must be confirmed against the organization's operating calendar in Oman, taking applicable weekends, public holidays, and contributor availability into consideration.
-
-The planned start and completion dates will be established after the project schedule and relevant planning baselines have received the required approval.
-
-### 2.2 Schedule Assumptions
-
-The schedule is based on the following assumptions:
-
-- The Project Charter and Scope Baseline will receive the required authorization before baseline-dependent execution begins.
-- Key stakeholders and designated contributors will be available during their assigned work periods.
-- The Project Sponsor will provide required decisions within agreed review periods.
-- External legal review will be available during the planned documentation review window.
-- Required domain, hosting, cloud, and SaaS services will be available within reasonable provisioning periods.
-- Corporate registration information and approved business content will be available for verification.
-- Technical and marketing activities can be performed in parallel where dependencies permit.
-- Contractor responsibilities and availability will be confirmed before the relevant work packages are scheduled for execution.
-- Material regulatory and security dependencies will be addressed before the affected production activities begin.
-
-### 2.3 Duration Estimation Approach
-
-Initial work-package durations are planning estimates.
-
-They are based on the anticipated task complexity, scope, dependencies, and the proposed resource model.
-
-The estimates must be reviewed and validated by the relevant activity owners before the schedule is formally approved.
-
-The following methods may be used where appropriate:
-
-- Expert judgment.
-- Analogous estimation based on comparable activities.
-- Bottom-up estimation for decomposed work packages.
-- Three-point estimation where significant duration uncertainty exists.
-
-No historical project performance data is currently assumed to be available.
-
-The initial estimates must therefore not be treated as measured historical productivity or guaranteed completion times.
-
-### 2.4 Schedule Constraints
-
-The principal schedule constraints are:
-
-- Eight-calendar-week planned execution window.
-- Limited availability of specialist contractors.
-- External legal and regulatory review dependencies.
-- Domain registration and third-party provisioning requirements.
-- Approval dependencies for commercial and legal documents.
-- The approved project scope and financial envelope.
-
-Any forecast delay that threatens the project completion date must be assessed and escalated through project governance.
+The schedule must remain consistent with the approved scope, available resources, and authorized financial arrangements.
 
 ---
 
-## 3. Activity Definition and Sequencing
+## 2. Schedule Planning Assumptions and Methodology
 
-### 3.1 Activity Identification
+### 2.1 Project Duration
 
-Project activities are derived from the lowest-level work packages in the Scope Baseline (GEN-SBL-001).
+The planned project duration is eight calendar weeks, nominally equivalent to 40 business days under a five-day working-week assumption.
 
-Each scheduled activity retains its original WBS code to support traceability between scope definition, responsibility assignment, and schedule monitoring.
+The eight-week period is a planning target rather than an approved calendar schedule.
 
-### 3.2 Dependency Types
+The actual start date and target completion date must be confirmed after formal project authorization and review of resource availability.
 
-The following dependency types may be used in the detailed schedule:
+### 2.2 Working Calendar
 
-| Dependency Type | Description |
-|---|---|
-| Finish-to-Start (FS) | The successor activity cannot begin until the predecessor activity is completed. |
-| Start-to-Start (SS) | The successor activity may begin once the predecessor has started and the required conditions are satisfied. |
-| Finish-to-Finish (FF) | The successor activity cannot finish until the predecessor activity has finished. |
-| External Dependency | The activity depends on a third party, vendor, regulator, or other party outside the immediate project team's control. |
+The initial schedule assumes:
 
-Finish-to-Start is the default dependency used in the preliminary schedule unless another logical relationship is explicitly justified.
+- Five working days per week.
+- Activity durations expressed in working days.
+- Weekly delivery windows identified as Week 1 through Week 8.
+- Project date and time records maintained in Oman Standard Time (GST, UTC+4).
 
-### 3.3 Parallel Activities
+The exact company working days, weekend arrangement, public holidays, and other non-working days must be confirmed against Bridge of Tomorrow's actual operating calendar before calendar dates are assigned.
 
-Where dependencies permit, technical, administrative, legal, and marketing activities may be executed concurrently.
+### 2.3 Duration Estimation Method
 
-Examples include:
+Activity durations have been prepared using preliminary activity-based planning estimates informed by:
 
-- Stakeholder identification and initial risk assessment.
-- Domain provisioning and commercial template drafting.
-- Asana workspace configuration and GitHub repository setup.
-- Website development and legal template preparation.
-- Service catalogue content preparation and SOP documentation.
+- The current WBS decomposition.
+- The expected complexity of each work package.
+- Known technical and operational dependencies.
+- The proposed project delivery sequence.
+- The current project objectives and resource assumptions.
 
-Parallel execution must not compromise quality, regulatory requirements, resource availability, or formal approval controls.
+The estimates represent preliminary Project Manager planning judgments. They are not yet validated commitments from individual contractors, external advisers, or formally assigned contributors.
+
+Where specialist resources are subsequently assigned, the Project Manager must review and validate the corresponding estimates with those resources.
+
+### 2.4 Duration and Effort Distinction
+
+The estimated duration of an activity represents its planned working-time window, not necessarily the total number of person-hours required.
+
+The following must be distinguished:
+
+- **Activity Duration:** The estimated time required to complete the work package.
+- **Work Effort:** The estimated amount of labor required, normally expressed in person-hours or person-days.
+- **Elapsed Time:** The total time between the activity's start and finish, including approved waiting periods or external dependencies where applicable.
+
+The current schedule primarily estimates activity duration. Detailed effort estimates and resource loading remain subject to confirmation.
+
+### 2.5 Scheduling Logic
+
+The following scheduling rules apply:
+
+- WBS codes are used to maintain traceability between scope and schedule activities.
+- Finish-to-Start (FS) is the default dependency relationship unless an alternative is explicitly documented.
+- Activities may be performed concurrently where their prerequisites, resource availability, and approval requirements allow.
+- An activity must not begin before its essential inputs and required authorizations are available.
+- Website quality and security testing must be completed before production release.
+- Commercial proposals must not be dispatched before the relevant service information and commercial terms are authorized.
+- Project closure depends on completion or formal disposition of all required deliverables and outstanding actions.
+
+The planned windows do not authorize activities that require additional legal, commercial, financial, or technical approval before such approval has been obtained.
+
+### 2.6 Resource Planning Assumptions
+
+The schedule uses functional roles consistent with the Stakeholder Register and RACI Matrix.
+
+The current resource assumptions are:
+
+| Functional Role | Schedule Responsibility | Assignment Status |
+|---|---|---|
+| Project Sponsor / Authorized Company Representative | Formal authorization and milestone or baseline decisions | Designation and approval authority pending confirmation |
+| Project Manager | Planning, coordination, monitoring, documentation, and assigned work packages | Masoud Shafiezadeh Neyestanak |
+| Technical Contributor | Infrastructure, cloud, website, security, and technical handover activities | Individual assignment or contractor engagement pending confirmation |
+| Marketing Contributor | Bilingual content, service catalogue, and client outreach activities | Individual assignment or contractor engagement pending confirmation |
+| External Legal Adviser | Legal and contractual template review | Engagement to be confirmed when required |
+| Data Protection Officer / Privacy Specialist | Privacy and data protection support where applicable | Appointment or engagement subject to legal assessment |
+| Database Administrator | Database activities where required by the approved architecture | Conditional resource |
+
+The schedule must not be interpreted as confirmation that these specialist resources have already been hired, contracted, or formally assigned.
+
+The Project Manager is responsible for coordinating resource requirements and identifying shortages.
+
+The Project Manager must not be considered the substitute for specialist technical, legal, or regulatory expertise.
+
+### 2.7 Resource Loading and Schedule Validation
+
+The current schedule is not yet resource-loaded.
+
+Before approval, the Project Manager must review:
+
+- Actual availability of assigned contributors.
+- Contractor and adviser engagement dates.
+- Competing work-package responsibilities.
+- Potential resource conflicts.
+- Technical and operational dependencies.
+- Supplier lead times.
+- Stakeholder review and approval periods.
+- Company working calendar and public holidays.
+
+Where resource availability does not support the proposed overlapping activities, the schedule must be revised.
+
+### 2.8 Preliminary Planning Status
+
+The current activity durations, planned windows, and dependencies are preliminary.
+
+The eight-week planning target has not been validated through a fully resource-loaded schedule or a formally calculated Critical Path Method (CPM) analysis.
+
+No approved schedule contingency or schedule reserve has been established at this stage.
+
+---
+
+## 3. Project Schedule Summary
+
+The following table provides the proposed delivery sequence across the eight-week planning period.
+
+| Project Week | Main Activities | Expected Outputs |
+|---|---|---|
+| **Week 1** | Charter authorization, stakeholder identification, initial risk planning, and commencement of CR activity verification | Project governance foundation and initial project records |
+| **Week 2** | Planning baseline review, domain and DNS work, service activity verification, initial templates, GitHub controls, and operational workspace setup | Planning documents under review and initial digital setup |
+| **Week 3** | Corporate workspace and email configuration, identity and access controls, bilingual content preparation, website implementation, Asana configuration, and commercial template development | Digital infrastructure progressing; website and commercial documentation underway |
+| **Week 4** | Website implementation, MSA/SLA and proposal template preparation, external legal review, SOP development, and service catalogue content preparation | Operational workspace and commercial documentation progressing |
+| **Week 5** | Website implementation completion, legal review, service catalogue preparation, and verification of remaining dependencies | Website ready for quality testing; commercial and service documentation reviewed |
+| **Week 6** | Website quality and security testing, production website release after successful testing, service catalogue publication, and commencement of SME prospect qualification | Corporate web presence and service catalogue published |
+| **Week 7** | SME prospect qualification, proposal customization, and commercial review | Customized proposals prepared for authorization |
+| **Week 8** | Proposal dispatch, deliverable acceptance review, asset handover, lessons learned, and project closeout | Five formal proposals dispatched and project closure package completed |
+
+The weekly sequence is an initial planning arrangement. Actual activity sequencing may change following resource validation, supplier engagement, and formally approved changes.
 
 ---
 
 ## 4. Detailed Activity Schedule
 
-The following schedule translates the 28 lowest-level WBS work packages into estimated durations, dependencies, and planned delivery windows.
+### 4.1 Scheduling Conventions
 
-All durations are expressed in business days.
+- **Duration:** Preliminary estimated working days.
+- **Planned Window:** Target project week or weeks relative to the formally approved start date.
+- **Predecessor:** Activity or authorization that must be completed before the relevant work begins.
+- **Responsible Role:** Functional role expected to perform the work.
+- **Accountable Owner:** Role accountable for completion of the work package.
 
-The predecessor column identifies logical dependencies. Some activities may overlap within the same target week when their resource and approval requirements permit.
+The RACI assignments in this schedule are aligned with the Stakeholder Register and RACI Matrix (GEN-STK-001).
 
-### 4.1 Initiation and Planning Baseline
+Where a role is not formally assigned, the corresponding resource requirement remains open.
 
-| WBS Code | Activity | Duration | Planned Window | Predecessor(s) | Responsible Role | Accountable Owner |
+### 4.2 Work Package Schedule
+
+| WBS Code | Activity / Work Package | Duration (Working Days) | Planned Window | Primary Predecessor(s) | Responsible Role | Accountable Owner |
 |---|---|---:|---|---|---|---|
-| **1.1.1** | Project Charter & Authorization | 2 days | Week 1 | None | Lead PM | Project Sponsor |
-| **1.1.2** | Stakeholder Register & RACI | 2 days | Week 1 | 1.1.1 (initial authorization) | Lead PM | Project Sponsor |
-| **1.1.3** | Initial Risk Register | 2 days | Weeks 1–2 | 1.1.1, 1.1.2 | Lead PM | Lead PM |
-| **1.1.4** | Scope, Schedule & Cost Baseline Review and Approval | 2 days | Week 2 | 1.1.1, 1.1.2, 1.1.3; draft planning documents available | Lead PM | Project Sponsor |
+| 1.1.1 | Project Charter & Authorization | 2 | Week 1 | None | Project Manager | Project Sponsor |
+| 1.1.2 | Stakeholder Register & RACI | 2 | Week 1 | 1.1.1 | Project Manager | Project Sponsor |
+| 1.1.3 | Initial Risk Register | 2 | Weeks 1–2 | 1.1.1, 1.1.2 | Project Manager | Project Manager |
+| 1.1.4 | Scope, Schedule & Cost Baseline | 2 | Week 2 | 1.1.1, 1.1.2, 1.1.3 | Project Manager | Project Sponsor |
+| 1.2.1 | Corporate Domain & DNS Provisioning | 5 | Weeks 2–3 | 1.1.4 and required company spending authorization | Technical Contributor | Project Manager |
+| 1.2.2 | Corporate Workspace & Email Setup | 3 | Week 3 | 1.2.1 | Technical Contributor | Project Manager |
+| 1.2.3 | Identity, Access & Security Controls | 2 | Weeks 3–4 | 1.2.2 | Technical Contributor | Project Manager |
+| 1.3.1 | Bilingual Content & Brand Preparation | 5 | Weeks 2–3 | 1.1.2, 1.6.1 | Marketing Contributor | Project Manager |
+| 1.3.2 | Website Implementation & Hosting | 10 | Weeks 3–5 | 1.2.1, 1.2.2, 1.3.1 | Technical Contributor | Project Manager |
+| 1.3.4 | Website Quality & Security Testing | 3 | Week 6 | 1.3.2, 1.2.3 | Technical Contributor | Project Manager |
+| 1.3.3 | Production Website Release | 1 | Week 6 | 1.3.4, approved corporate content and release authorization | Technical Contributor | Project Manager |
+| 1.4.1 | SOW & NDA Templates | 3 | Weeks 2–3 | 1.1.1, 1.1.2 | Project Manager | Project Manager |
+| 1.4.2 | MSA & SLA Templates | 3 | Weeks 3–4 | 1.4.1 and agreed service requirements | Project Manager | Project Manager |
+| 1.4.3 | Commercial Proposal Template | 2 | Weeks 3–4 | 1.4.1, 1.6.1 | Marketing Contributor | Project Manager |
+| 1.4.4 | External Legal Review | 5 | Weeks 4–5 | 1.4.1, 1.4.2, 1.4.3 | External Legal Adviser | Project Manager |
+| 1.5.1 | Asana Workspace Configuration | 3 | Weeks 2–3 | 1.1.1, 1.1.2 | Project Manager | Project Manager |
+| 1.5.2 | SOP & Operational Checklist Development | 4 | Week 4 | 1.5.1, 1.2.2, 1.2.3 | Project Manager | Project Manager |
+| 1.5.3 | GitHub Repository & Secret Management Controls | 2 | Week 2 | 1.1.1, 1.1.2 | Technical Contributor | Project Manager |
+| 1.6.1 | CR Activity Verification & Service Mapping | 2 | Weeks 1–2 | 1.1.1 | Project Manager | Project Manager |
+| 1.6.2 | Service Catalogue Content Preparation | 4 | Weeks 4–5 | 1.6.1, 1.3.1 | Marketing Contributor | Project Manager |
+| 1.6.3 | Service Catalogue Publication | 1 | Week 6 | 1.6.2, 1.3.3, approved business content | Marketing Contributor | Project Manager |
+| 1.7.1 | SME Prospect Identification & Qualification | 3 | Weeks 6–7 | 1.6.1, 1.6.2 | Marketing Contributor | Project Manager |
+| 1.7.2 | Proposal Customization | 3 | Weeks 7–8 | 1.7.1, 1.4.3, 1.4.4, authorized commercial terms | Marketing Contributor | Project Manager |
+| 1.7.3 | Proposal Dispatch & Outreach Register | 1 | Week 8 | 1.7.2 and required commercial authorization | Marketing Contributor | Project Manager |
+| 1.8.1 | Deliverable Acceptance Review | 2 | Week 8 | Completion of D1–D6 and required review evidence | Project Manager | Project Sponsor |
+| 1.8.2 | Asset Handover & Outstanding Actions | 2 | Week 8 | 1.8.1 and availability of relevant assets | Technical Contributor | Project Manager |
+| 1.8.3 | Lessons Learned Retrospective | 1 | Week 8 | 1.8.1 | Project Manager | Project Manager |
+| 1.8.4 | Closeout Report & Sponsor Sign-Off | 2 | Week 8 | 1.8.1, 1.8.2, 1.8.3 | Project Manager | Project Sponsor |
 
-**Planning Note:** Draft planning documents are prepared before the baseline approval activity. Early preparatory work may proceed in parallel only where separately authorized and within delegated authority.
+### 4.3 Schedule Dependency Clarifications
 
-### 4.2 Digital Infrastructure Foundation — D1
+The following dependencies are particularly important:
 
-| WBS Code | Activity | Duration | Planned Window | Predecessor(s) | Responsible Role | Accountable Owner |
-|---|---|---:|---|---|---|---|
-| **1.2.1** | Corporate Domain & DNS Provisioning | 5 days | Weeks 1–2 | 1.1.1; relevant registration and domain eligibility information | Lead Software & Cloud Engineer | Lead PM |
-| **1.2.2** | Corporate Workspace & Email Setup | 3 days | Week 2 | 1.2.1 | Lead Software & Cloud Engineer | Lead PM |
-| **1.2.3** | Identity, Access & Security Controls | 2 days | Week 2 | 1.2.2 | Lead Software & Cloud Engineer | Lead PM |
+**Project Authorization and Baseline Approval**
 
-### 4.3 Corporate Web Presence — D2
+Formal Project Charter authorization is required before the project is treated as formally authorized.
 
-| WBS Code | Activity | Duration | Planned Window | Predecessor(s) | Responsible Role | Accountable Owner |
-|---|---|---:|---|---|---|---|
-| **1.3.1** | Bilingual Content & Brand Preparation | 5 days | Weeks 2–3 | 1.6.1; approved corporate information and brand inputs | Marketing Lead | Lead PM |
-| **1.3.2** | Website Implementation & Hosting | 10 days | Weeks 3–5 | 1.2.1, 1.3.1 | Lead Software & Cloud Engineer | Lead PM |
-| **1.3.3** | Production Website Release | 1 day | Week 6 | 1.3.4 | Lead Software & Cloud Engineer | Lead PM |
-| **1.3.4** | Website Quality & Security Testing | 3 days | Week 6 | 1.3.2 | Lead Software & Cloud Engineer | Lead PM |
+Project planning and documentation activities may be prepared for review, but financial commitments, material external commitments, and work requiring additional authorization must remain subject to existing company authority.
 
-**Sequencing Note:** Website testing must be completed before the final production release. The WBS numbering identifies work packages but does not override their logical execution sequence.
+**Digital Infrastructure**
 
-### 4.4 Commercial and Legal Template Suite — D3
+Domain and DNS provisioning precede the dependent email and workspace configuration activities.
 
-| WBS Code | Activity | Duration | Planned Window | Predecessor(s) | Responsible Role | Accountable Owner |
-|---|---|---:|---|---|---|---|
-| **1.4.1** | SOW & NDA Templates | 3 days | Weeks 2–3 | 1.1.1; approved business requirements | Lead PM | Lead PM |
-| **1.4.2** | MSA & SLA Templates | 3 days | Weeks 3–4 | 1.4.1 | Lead PM | Lead PM |
-| **1.4.3** | Commercial Proposal Template | 2 days | Weeks 3–4 | 1.4.1; approved commercial inputs | Marketing Lead | Lead PM |
-| **1.4.4** | External Legal Review | 5 days | Week 4 | 1.4.1, 1.4.2, 1.4.3 | External Legal Adviser | Lead PM |
+Identity and access controls must be verified before relevant systems are placed into production use.
 
-Legal review duration is a provisional estimate and depends on the availability of the external adviser and the complexity of review comments.
+**Corporate Website**
 
-### 4.5 Operational Workspace and Workflows — D4
+Website implementation depends on the availability of the required domain, hosting arrangements, and approved bilingual content.
 
-| WBS Code | Activity | Duration | Planned Window | Predecessor(s) | Responsible Role | Accountable Owner |
-|---|---|---:|---|---|---|---|
-| **1.5.1** | Asana Workspace Configuration | 3 days | Weeks 2–3 | 1.1.2 | Lead PM | Lead PM |
-| **1.5.2** | SOP & Operational Checklist Development | 4 days | Weeks 3–4 | 1.5.1, 1.6.1 | Lead PM | Lead PM |
-| **1.5.3** | GitHub Repository & Secret Management Controls | 2 days | Week 2 | 1.1.1 | Lead Software & Cloud Engineer | Lead PM |
+Website quality and security testing (1.3.4) must be completed before production release (1.3.3).
 
-### 4.6 Digital Service Catalogue — D5
+This sequencing is mandatory even though the WBS numbering places the production release before testing.
 
-| WBS Code | Activity | Duration | Planned Window | Predecessor(s) | Responsible Role | Accountable Owner |
-|---|---|---:|---|---|---|---|
-| **1.6.1** | CR Activity Verification & Service Mapping | 2 days | Weeks 1–2 | 1.1.1; official CR information available | Lead PM | Lead PM |
-| **1.6.2** | Service Catalogue Content Preparation | 4 days | Weeks 4–5 | 1.6.1, 1.3.1; approved service and commercial inputs | Marketing Lead | Lead PM |
-| **1.6.3** | Service Catalogue Publication | 1 day | Week 6 | 1.6.2, 1.3.3 | Marketing Lead | Lead PM |
+**Commercial and Legal Documentation**
 
-### 4.7 Client Outreach Package — D6
+The five templates must be prepared before external legal review can be completed.
 
-| WBS Code | Activity | Duration | Planned Window | Predecessor(s) | Responsible Role | Accountable Owner |
-|---|---|---:|---|---|---|---|
-| **1.7.1** | SME Prospect Identification & Qualification | 3 days | Weeks 6–7 | 1.6.1, preliminary service portfolio information | Marketing Lead | Lead PM |
-| **1.7.2** | Proposal Customization | 3 days | Weeks 7–8 | 1.4.4, 1.6.2, 1.7.1 | Marketing Lead | Lead PM |
-| **1.7.3** | Proposal Dispatch & Outreach Register | 1 day | Week 8 | 1.7.2; required commercial authorization and applicable marketing compliance checks | Marketing Lead | Lead PM |
+Proposal customization must use the relevant reviewed templates and authorized service descriptions and commercial terms.
 
-### 4.8 Project Closeout Package — D7
+Legal review does not automatically constitute company authorization to sign or issue commercial commitments.
 
-| WBS Code | Activity | Duration | Planned Window | Predecessor(s) | Responsible Role | Accountable Owner |
-|---|---|---:|---|---|---|---|
-| **1.8.1** | Deliverable Acceptance Review | 2 days | Week 8 | Completion and evidence for D1–D6 | Lead PM | Project Sponsor |
-| **1.8.2** | Asset Handover & Outstanding Actions | 2 days | Week 8 | Relevant technical and operational deliverables completed | Relevant Asset Owners, coordinated by Lead PM | Lead PM |
-| **1.8.3** | Lessons Learned Retrospective | 1 day | Week 8 | Major project delivery activities substantially completed | Lead PM | Lead PM |
-| **1.8.4** | Closeout Report & Sponsor Sign-Off | 2 days | Week 8 | 1.8.1, 1.8.2, 1.8.3 | Lead PM | Project Sponsor |
+**Service Catalogue**
+
+The service catalogue must be based on verified CR activities and approved business information.
+
+Publication must follow the required content and business authorization.
+
+**Client Outreach**
+
+Proposal customization depends on prospect qualification, verified service information, and completion of the relevant commercial and legal review.
+
+Proposal dispatch must not occur until the required commercial approval has been obtained.
+
+**Project Closure**
+
+Project closure depends on deliverable acceptance review, outstanding-item documentation, handover arrangements, and lessons learned.
 
 ---
 
-## 5. High-Level Weekly Schedule
+## 5. Key Milestones and Acceptance Gates
 
-The following table summarizes the planned distribution of major activities across the eight-week project window.
+The following milestones provide management checkpoints across the eight-week schedule.
 
-| Week | Main Activities | Expected Outputs |
+| Milestone ID | Milestone | Target Window | Completion Evidence | Approval / Review Responsibility |
+|---|---|---|---|---|
+| M1 | Project Charter Authorization | Week 1 | Formally approved GEN-CH-001 | Project Sponsor / Authorized Company Representative |
+| M2 | Planning Baseline Review | Week 2 | Scope, schedule, cost, risk, stakeholder, and communication planning records reviewed; approval decisions recorded | Project Sponsor / Authorized Company Representative |
+| M3 | Digital Infrastructure Foundation | Week 4 | Domain, workspace, email, access, and security checks completed | Project Manager; technical verification by assigned contributor |
+| M4 | Operational Workspace Readiness | Week 4 | Asana configuration, required SOPs, and repository controls reviewed | Project Manager |
+| M5 | Commercial and Legal Documentation Review | Week 5 | Five templates reviewed and business authorization recorded where required | Project Manager, External Legal Adviser, Authorized Company Signatory |
+| M6 | Corporate Website and Service Catalogue Publication | Week 6 | Website and approved catalogue published; testing and content approval evidence retained | Project Manager and authorized content approver |
+| M7 | Client Outreach Completed | Week 8 | Five formal proposals dispatched and recorded | Project Manager; required commercial authorization obtained |
+| M8 | Project Closure | Week 8 | Deliverable acceptance, handover records, lessons learned, final budget summary, and closeout approval | Project Sponsor / Authorized Delegate |
+
+Milestone windows are provisional.
+
+A milestone is complete only when its corresponding completion evidence is available and the applicable approval has been recorded.
+
+---
+
+## 6. Schedule Monitoring and Control
+
+### 6.1 Progress Monitoring
+
+The Project Manager will monitor activity progress through the designated Asana workspace and controlled project records.
+
+Progress monitoring should include:
+
+- Planned start and finish dates once confirmed.
+- Actual start and finish dates.
+- Estimated remaining duration.
+- Activity completion percentage where supported by measurable work.
+- Predecessor and successor status.
+- Current blockers and dependencies.
+- Resource availability.
+- Forecast milestone completion.
+- Schedule variance against the applicable reference schedule.
+
+Progress percentages must be supported by identifiable work completed and verifiable evidence.
+
+An activity must not be marked complete solely because its planned duration has elapsed.
+
+### 6.2 Schedule Status Reporting
+
+Schedule performance will be reported using the following RAG classifications.
+
+| Status | Condition | Management Response |
 |---|---|---|
-| **Week 1** | Project authorization, stakeholder identification, initial risk assessment, CR activity verification, domain provisioning initiation. | Initial governance and project setup activities initiated. |
-| **Week 2** | Planning baseline review, cloud workspace and email setup, MFA and access controls, GitHub and Asana configuration, initial contract drafting, bilingual content preparation. | Digital infrastructure foundation and planning controls progressing. |
-| **Week 3** | Website development, commercial and legal template preparation, Asana workflow configuration, SOP development, service catalogue preparation. | Core technical, legal, and operational work packages underway. |
-| **Week 4** | Continued website development, external legal review, SOP completion, service catalogue content preparation. | Legal review completed or material comments documented; operational workflows prepared. |
-| **Week 5** | Website implementation completion, final service catalogue content review, technical preparation for production testing. | Website ready for formal testing; catalogue content ready for publication review. |
-| **Week 6** | Website quality and security testing, production website release, service catalogue publication, initial SME prospect qualification. | Bilingual website and service catalogue launched; outreach preparation underway. |
-| **Week 7** | SME prospect qualification, proposal customization, commercial review and approval coordination. | Customized proposals prepared for qualified prospects. |
-| **Week 8** | Dispatch of five proposals, deliverable acceptance, technical and operational handover, lessons learned, and project closure. | Project closeout package and sponsor sign-off. |
+| Green | Activity or milestone is progressing according to the approved schedule or latest reviewed planning assumptions, with no unresolved material dependency. | Continue monitoring and routine reporting. |
+| Amber | A forecast delay, resource constraint, unresolved dependency, or approval delay exists but may be managed within delegated authority. | Assess impact and assign corrective actions. |
+| Red | An approved milestone or schedule baseline is forecast to be breached, or a material decision beyond delegated authority is required. | Escalate to the Project Sponsor or authorized company representative. |
 
-Activities may overlap where their dependencies and resource requirements permit.
+Before schedule approval, the RAG assessment must be described as performance against the proposed planning schedule rather than an approved Schedule Baseline.
 
-The weekly schedule is a planning view and does not replace the detailed WBS-based activity schedule.
+### 6.3 Schedule Variance
+
+Once the Schedule Baseline has been formally approved, the Project Manager will monitor the difference between planned and actual or forecast activity dates.
+
+Schedule variance may be expressed in working days:
+
+**Schedule Variance (Days) = Forecast Finish Date − Baseline Finish Date**
+
+The variance should be calculated using the same agreed project working calendar.
+
+A positive value indicates a forecast delay relative to the baseline.
+
+A negative value indicates a forecast earlier than the baseline.
+
+The Project Manager must assess whether the variance affects a milestone, predecessor activity, resource allocation, or final project completion.
+
+### 6.4 Milestone Forecasting
+
+The Project Manager will review milestone forecasts at least weekly.
+
+Forecasts must consider:
+
+- Current activity progress.
+- Remaining duration.
+- Unresolved dependencies.
+- Stakeholder review time.
+- Resource availability.
+- Supplier or contractor lead times.
+- Regulatory and legal review requirements.
+- Approved changes and constraints.
+
+Where a milestone forecast changes materially, the relevant stakeholders must be informed and corrective options documented.
+
+### 6.5 Escalation Thresholds
+
+Schedule escalation must remain consistent with the Communication Management Plan (GEN-COM-001).
+
+| Condition | Escalation Level | Required Action |
+|---|---|---|
+| Minor task delay with no milestone impact | Level 1 | Assigned task owner coordinates corrective action and informs the Project Manager. |
+| Forecast delay exceeding 2 business days or threatening an approved milestone | Level 2 | Project Manager assesses impact, assigns corrective action, and reports the exposure. |
+| Forecast delay exceeding 5 business days or material threat to approved project completion | Level 3 | Escalate to the Project Sponsor or authorized company representative for a governance decision. |
+| Delay caused by legal, regulatory, privacy, or security concerns | Immediate escalation according to issue severity | Protect the organization and comply with applicable requirements; do not delay reporting until a routine schedule threshold is reached. |
+
+Where a schedule baseline has not yet been approved, delays must be measured against the latest reviewed planning schedule and clearly identified as forecast variances rather than formal baseline variances.
+
+### 6.6 Corrective and Recovery Actions
+
+Where a schedule deviation occurs, the Project Manager may recommend:
+
+- Resequencing activities where dependencies allow.
+- Prioritizing work packages affecting major milestones.
+- Removing unnecessary task dependencies.
+- Requesting additional qualified resources, subject to authorization.
+- Adjusting delivery sequencing.
+- Reviewing supplier or contractor arrangements.
+- Reducing non-essential scope through formal change control.
+- Revising the target completion date where justified.
+
+Schedule compression techniques, including fast-tracking and crashing, must not be applied where they compromise legal review, security verification, quality, or required approvals.
+
+Additional resource commitments require the appropriate financial and organizational authorization.
 
 ---
 
-## 6. Project Milestones
+## 7. Critical Path and Dependency Analysis
 
-Milestones represent significant events or completion points in the project lifecycle.
+### 7.1 Critical Path Status
 
-Unlike work-package activities, milestones have zero planned duration.
+A formally validated Critical Path has not yet been established.
 
-| Milestone ID | Milestone Description | Target Window | Completion Evidence |
-|---|---|---|---|
-| **M1** | Project Authorization & Planning Baseline | Week 2 | Approved Project Charter and required planning baselines. |
-| **M2** | Digital Infrastructure Foundation | Weeks 1–2 | Verified domain, corporate email, cloud workspace, and baseline security configuration. |
-| **M3** | Commercial and Legal Template Review | Weeks 3–4 | Five templates prepared and required legal and business review recorded. |
-| **M4** | Operational Workspace Ready | Weeks 2–4 | Asana workspace, operational workflows, SOPs, and repository controls reviewed. |
-| **M5** | Corporate Website and Service Catalogue Launch | Weeks 5–6 | Bilingual website and approved service catalogue published. |
-| **M6** | Client Outreach Completed | Week 8 | Five formal proposals dispatched and evidence recorded. |
-| **M7** | Project Closure | Week 8 | Deliverable acceptance, handover, Closeout Report, and Sponsor approval. |
-
-Milestone completion requires documented evidence. A target week alone does not constitute milestone acceptance.
-
----
-
-## 7. Schedule Dependencies and Critical Path Analysis
-
-### 7.1 Key Schedule Dependencies
-
-The following dependencies are considered particularly important to successful delivery.
-
-| Dependency ID | Predecessor | Successor | Dependency Description |
-|---|---|---|---|
-| DEP-01 | Project Authorization (1.1.1) | Baseline-dependent execution activities | Formal authorization is required before work proceeds beyond permitted initiation activities. |
-| DEP-02 | CR Activity Verification (1.6.1) | Service Catalogue and public business content | Commercial activity descriptions must be verified before definitive service claims are published. |
-| DEP-03 | Domain and DNS Provisioning (1.2.1) | Website Hosting and Deployment (1.3.2) | The selected domain and required DNS configuration must be available for deployment. |
-| DEP-04 | Corporate Workspace Setup (1.2.2) | Identity and Access Controls (1.2.3) | Relevant user and administrative accounts must be provisioned before access controls are fully verified. |
-| DEP-05 | Bilingual Content Preparation (1.3.1) | Website Implementation (1.3.2) | Approved content and brand inputs are required for website development. |
-| DEP-06 | Website Implementation (1.3.2) | Website Testing (1.3.4) | The implemented website must be available for functional and security testing. |
-| DEP-07 | Website Testing (1.3.4) | Production Release (1.3.3) | Final production publication depends on successful completion of required testing. |
-| DEP-08 | Legal Template Review (1.4.4) | Proposal Customization (1.7.2) | Required commercial and legal review must be completed before proposals rely on the approved templates. |
-| DEP-09 | Service Catalogue Preparation (1.6.2) | Service Catalogue Publication (1.6.3) | Approved service content must be available before publication. |
-| DEP-10 | Proposal Customization (1.7.2) | Proposal Dispatch (1.7.3) | Proposals must be finalized and authorized before dispatch. |
-| DEP-11 | Deliverable Completion (D1–D6) | Acceptance Review (1.8.1) | Completion evidence must be available before formal acceptance. |
-| DEP-12 | Acceptance and Handover (1.8.1, 1.8.2) | Final Closeout (1.8.4) | Required acceptance and handover records must be completed before formal closure. |
-
-### 7.2 Preliminary Critical Path Considerations
-
-The following activity chains are considered potential critical-path candidates based on the current scope, dependencies, and planned delivery windows.
-
-**Website and Service Launch Path:**
-
-```text
-Project Authorization
-        |
-        v
-CR Activity Verification
-        |
-        v
-Bilingual Content Preparation
-        |
-        v
-Website Implementation & Hosting
-        |
-        v
-Website Quality & Security Testing
-        |
-        v
-Production Website Release
-        |
-        v
-Service Catalogue Publication
-```
-
-**Commercial Outreach Path:**
-
-```text
-Commercial Template Preparation
-        |
-        v
-External Legal Review
-        |
-        v
-Service Catalogue Approval
-        |
-        v
-SME Prospect Qualification
-        |
-        v
-Proposal Customization
-        |
-        v
-Proposal Dispatch
-```
-
-**Project Closure Path:**
-
-```text
-Completion of D1–D6
-        |
-        v
-Deliverable Acceptance Review
-        |
-        v
-Asset Handover and Lessons Learned
-        |
-        v
-Closeout Report
-        |
-        v
-Project Sponsor Sign-Off
-```
-
-These paths highlight activities whose delays may affect the overall completion date.
-
-**Critical Path Status:** Preliminary — Not Formally Validated.
-
-A fully validated Critical Path Method (CPM) calculation requires:
+The current schedule provides preliminary dependency relationships and planned delivery windows, but a complete Critical Path Method (CPM) calculation requires:
 
 - Confirmed activity durations.
-- Finalized dependency relationships.
-- A confirmed working-day calendar.
-- Resource availability and allocation.
-- Identification of mandatory and flexible dependencies.
-- Calculation of early start, early finish, late start, late finish, and total float.
+- Validated dependency relationships.
+- A confirmed working calendar.
+- Actual or formally committed resource availability.
+- Review of concurrent activities and resource conflicts.
+- Confirmed project start date.
+- Assessment of available float and external waiting periods.
 
-Until these inputs are confirmed, the identified chains must be treated as critical-path candidates rather than a formally calculated critical path.
+Until these inputs are validated, the project must not describe a particular sequence of activities as the approved Critical Path.
 
-### 7.3 Schedule Buffer and Contingency
+### 7.2 Preliminary Schedule-Critical Dependencies
 
-The eight-week delivery target is the initial planning constraint.
+The following sequences require particular attention because delays may affect downstream activities or milestone completion:
 
-The detailed schedule must identify activities with high uncertainty, particularly:
+**Digital Infrastructure to Website Release**
 
-- Domain registration and DNS provisioning.
-- External legal review.
-- Website implementation and technical testing.
-- Stakeholder approval turnaround times.
-- Client proposal preparation and authorization.
+1.2.1 Domain and DNS Provisioning  
+→ 1.2.2 Corporate Workspace & Email Setup  
+→ 1.2.3 Identity, Access & Security Controls  
+→ 1.3.4 Website Quality & Security Testing  
+→ 1.3.3 Production Website Release
 
-Any time reserve must be explicitly identified and approved as part of the final schedule baseline.
+Website implementation (1.3.2) also depends on the required hosting readiness and approved bilingual content (1.3.1).
 
-Unallocated time must not automatically be treated as available capacity for additional scope.
+**Commercial Templates to Proposal Dispatch**
 
----
+1.4.1 SOW & NDA Templates  
+→ 1.4.2 MSA & SLA Templates  
+→ 1.4.4 External Legal Review  
+→ 1.7.2 Proposal Customization  
+→ 1.7.3 Proposal Dispatch & Outreach Register
 
-## 8. Resource and Responsibility Assignment
+The Commercial Proposal Template (1.4.3) is also a prerequisite for proposal customization.
 
-Schedule ownership must remain consistent with the Stakeholder Register and RACI Matrix (GEN-STK-001).
+**Service Verification to Catalogue and Outreach**
 
-The following roles are assigned at the planning level:
+1.6.1 CR Activity Verification & Service Mapping  
+→ 1.6.2 Service Catalogue Content Preparation  
+→ 1.6.3 Service Catalogue Publication
 
-| Role | Schedule Responsibility |
-|---|---|
-| Project Sponsor | Approves the schedule baseline and material schedule changes. |
-| Lead Project Manager | Develops and maintains the schedule, coordinates dependencies, tracks progress, and escalates forecast delays. |
-| Lead Software & Cloud Engineer | Estimates and executes technical work packages, validates technical dependencies, and reports implementation progress. |
-| Marketing Lead | Estimates and executes content, catalogue, and client outreach activities. |
-| External Legal Adviser | Performs assigned legal review and communicates review findings within the agreed engagement. |
-| Authorized Company Signatory | Provides required business and commercial approvals before commitments are made. |
-| Data Protection Officer | Supports relevant privacy and data protection reviews where applicable. |
-| Database Administrator | Performs assigned database work if required by the approved technical architecture. |
+The approved service information and relevant commercial terms also support SME prospect qualification and proposal customization.
 
-### 8.1 Resource Availability
+**Deliverables to Project Closure**
 
-The schedule assumes that assigned contributors will be available during their planned activity windows.
+Completion of D1–D6  
+→ 1.8.1 Deliverable Acceptance Review  
+→ 1.8.2 Asset Handover & Outstanding Actions  
+→ 1.8.4 Closeout Report & Sponsor Sign-Off
 
-Actual availability, contractual working arrangements, and potential resource conflicts must be confirmed before final approval.
+Lessons Learned Retrospective (1.8.3) must also be completed before final closeout approval.
 
-No individual resource capacity is assumed beyond the assignments and availability formally agreed with the relevant contributors.
+These are preliminary dependency sequences and are not a substitute for a validated critical-path calculation.
 
-### 8.2 Resource Conflicts
+### 7.3 Float and Schedule Reserve
 
-If a contributor is assigned to overlapping activities that cannot reasonably be performed in parallel, the Lead Project Manager must:
+Activity float has not been formally calculated.
 
-- Review task priorities and dependencies.
-- Identify alternative sequencing options.
-- Assess schedule and cost impacts.
-- Reassign work only within authorized resource arrangements.
-- Submit material changes for Project Sponsor approval where required.
+No schedule reserve has been approved.
 
----
+Potential delays involving external legal review, resource assignment, supplier provisioning, content approval, or Sponsor decisions must be reviewed during schedule validation.
 
-## 9. Schedule Monitoring and Control
-
-### 9.1 Progress Tracking
-
-The Lead Project Manager will monitor schedule performance throughout project execution.
-
-Progress will be tracked using:
-
-- WBS activity completion.
-- Actual start and finish dates.
-- Forecast completion dates.
-- Milestone achievement.
-- Outstanding dependencies.
-- Overdue tasks.
-- Resource availability.
-- Approved and pending change requests.
-
-Asana will be used for operational task tracking, while the controlled project repository will retain the approved schedule baseline and relevant governance records.
-
-### 9.2 Schedule Reporting
-
-Schedule status will be included in the weekly project status report.
-
-Reports should identify:
-
-- Planned versus actual progress.
-- Milestones completed and upcoming.
-- Forecast schedule deviations.
-- Critical dependencies and blockers.
-- Activities at risk of delay.
-- Required corrective actions.
-- Decisions requiring Sponsor intervention.
-
-### 9.3 Schedule Variance and Escalation
-
-The following thresholds align with the Project Communication Management Plan (GEN-COM-001).
-
-| Condition | Required Response |
-|---|---|
-| Minor deviation within the agreed activity duration | Task Owner monitors and corrects as appropriate. |
-| Forecast delay exceeding two business days or threatening a milestone | Lead PM assesses the impact and initiates corrective action. |
-| Forecast delay exceeding five business days or threatening the project completion date | Escalate to the Project Sponsor with a recovery or change recommendation. |
-| Material dependency or external approval delay | Escalate according to impact and urgency. |
-| Schedule change affecting the approved completion date or baseline | Formal Change Request and Sponsor approval required. |
-
-These thresholds are management triggers and must not be treated as permission to ignore material schedule risks below the stated values.
-
-### 9.4 Schedule Change Control
-
-Any material change affecting the approved schedule baseline must be documented through the project Change Request process.
-
-The Lead Project Manager will assess:
-
-- Activity duration changes.
-- Dependency changes.
-- Milestone impacts.
-- Resource availability.
-- Cost implications.
-- Quality and compliance consequences.
-- Impact on the final project completion date.
-
-Material baseline changes require Project Sponsor approval before implementation.
-
-Approved changes must be recorded in the Change Log and incorporated into the controlled schedule document.
-
-### 9.5 Schedule Baseline Updates
-
-The original approved schedule baseline must remain identifiable for performance comparison.
-
-Revisions must be version-controlled and must include:
-
-- Revision date.
-- Reason for change.
-- Description of affected activities or milestones.
-- Schedule impact assessment.
-- Approval reference.
-- Updated baseline version where authorized.
-
-The schedule baseline must not be silently overwritten when actual progress differs from the original plan.
+Any proposed schedule reserve must be supported by documented assumptions and authorized through the appropriate governance process.
 
 ---
 
-## 10. Schedule Risks and Constraints
+## 8. Resource Coordination and Schedule Constraints
 
-The following risks may materially influence the planned completion date.
+### 8.1 Resource Coordination
 
-| Risk Reference | Schedule Risk | Potential Impact | Management Response |
+The Project Manager will coordinate work-package assignments and ensure that activities are assigned to appropriately qualified and available resources.
+
+The following principles apply:
+
+- No specialist activity should be treated as resourced merely because its functional role appears in the WBS.
+- Contractor or adviser engagement must be confirmed before relevant activities are committed.
+- Technical work must be performed or verified by a suitably qualified technical contributor.
+- Legal review must be undertaken by an appropriately qualified legal adviser.
+- Marketing and commercial content must be reviewed by the appropriate business representative.
+- Project Sponsor approval responsibilities must not be assigned to an individual without confirmed authority.
+- The Project Manager must monitor potential conflicts involving concurrent assignments and competing priorities.
+
+### 8.2 Resource Constraints
+
+The proposed schedule assumes that technical, marketing, and legal resources can be made available when required.
+
+If these resources are not engaged within the required windows:
+
+- The affected activities must be reviewed.
+- Dependencies and milestone impacts must be assessed.
+- The Project Manager must report the resource gap.
+- Any proposed contractor cost must be assessed against the preliminary and subsequently approved budget.
+- Required changes must be approved by the appropriate company authority.
+
+### 8.3 External Dependencies
+
+The schedule may be affected by:
+
+- Domain registrar processing times.
+- Cloud or SaaS provider activation.
+- External legal adviser availability.
+- Corporate content and business information approvals.
+- Commercial registration verification.
+- Applicable regulatory or administrative requirements.
+- SME prospect availability and response timing.
+
+These dependencies must be monitored and their expected response periods confirmed wherever practicable.
+
+---
+
+## 9. Schedule Change Control
+
+Any material change affecting the approved project schedule must be documented and reviewed before implementation.
+
+A Schedule Change Request should include:
+
+- Description and rationale for the proposed change.
+- Relevant WBS activity or milestone.
+- Current baseline and forecast dates, where applicable.
+- Impact on predecessor and successor activities.
+- Impact on the overall project completion target.
+- Resource and cost implications.
+- Relevant project risks.
+- Available alternatives and recommended action.
+- Required approval authority.
+
+The Project Manager will assess the request and provide a recommendation.
+
+Changes to an approved Schedule Baseline require authorization by the Project Sponsor or formally authorized delegate.
+
+Approved changes must be reflected in:
+
+- The Schedule Baseline.
+- Relevant Asana tasks and milestones.
+- The Project Status Report.
+- The Decision Log and Change Log where applicable.
+- Related budget or risk records where impacts occur.
+
+No material schedule revision will be considered approved solely because a revised estimate has been discussed informally.
+
+---
+
+## 10. Schedule Assumptions, Risks, and Limitations
+
+The current proposed schedule relies on the following assumptions:
+
+1. The formal Project Charter will be approved before the project is treated as formally authorized.
+2. The project start date will be established after required authorization.
+3. The project will follow a five-day working-week assumption, subject to confirmation of the company's actual calendar.
+4. The eight-week duration remains a planning target rather than a formally approved completion commitment.
+5. The current 28 lowest-level WBS work packages remain the approved scope reference once the Scope Baseline has been authorized.
+6. Functional technical, marketing, and legal resources will be engaged or assigned in time to support the planned delivery windows.
+7. The Project Sponsor or authorized company representative will be available for required decisions.
+8. The required cloud, domain, and collaboration services will be available under acceptable terms.
+9. External legal review can be completed within the estimated review window, subject to adviser availability.
+10. The required registered business activities and relevant licensing conditions will be verified before definitive service claims are published.
+11. Website content and service descriptions will receive the required business approval.
+12. The preliminary budget will be reviewed and detailed before significant expenditure commitments are made.
+13. Material changes to scope, resources, or technical architecture may require schedule revision.
+14. External delays and applicable legal or regulatory requirements may affect activity sequencing.
+
+### 10.1 Related Schedule Risk
+
+The primary schedule risk is recorded as:
+
+**RSK-010 — Schedule and Approval Delays**
+
+This risk includes potential delays arising from legal review, content approvals, supplier activation, stakeholder decisions, contributor availability, and other external dependencies.
+
+The Risk Register (GEN-RSK-001) provides the associated risk response and escalation arrangements.
+
+### 10.2 Schedule Limitations
+
+The current schedule does not include:
+
+- Confirmed calendar start and finish dates.
+- A fully resource-loaded schedule.
+- Validated contractor or adviser availability.
+- Fully verified supplier lead times.
+- Confirmed public holiday and company non-working day adjustments.
+- A formally calculated Critical Path.
+- Validated activity float.
+- An approved schedule reserve.
+- Actual activity progress or completed-work percentages.
+
+These limitations must be addressed before the proposed schedule becomes the authorized Schedule Baseline.
+
+---
+
+## 11. Document Control and Approval
+
+### 11.1 Approval and Endorsement Record
+
+| Role | Name / Assignment | Approval Action | Date |
 |---|---|---|---|
-| RSK-001 | Cloud architecture or configuration delays | Delayed technical readiness and website deployment | Confirm the target architecture early and validate access and provisioning requirements. |
-| RSK-002 | Commercial registration or regulatory clarification delays | Delayed service verification and public-facing claims | Initiate verification early and engage the appropriate adviser. |
-| RSK-003 | Scope creep | Increased workload and schedule slippage | Enforce formal change control. |
-| RSK-005 | Contractual or service definition issues | Delayed legal approval and commercial proposal preparation | Conduct early business and legal review. |
-| RSK-007 | Personal data protection compliance gaps | Delayed website forms or client outreach | Complete relevant privacy review before affected processing activities begin. |
-| RSK-008 | Cybersecurity or credential exposure | Service disruption, investigation, and recovery delays | Implement baseline security controls and maintain incident response arrangements. |
-| RSK-010 | Approval and dependency delays | Threat to planned milestones and project completion | Track decision deadlines and escalate outstanding approvals. |
-| RSK-011 | Weak initial client engagement | Reduced effectiveness of the outreach campaign | Qualify suitable prospects and prepare targeted proposals. |
+| Project Sponsor / Authorized Company Representative | To be formally designated and recorded | Formal Schedule Baseline Approval Pending | To be confirmed |
+| Project Manager — Prepared By | Masoud Shafiezadeh Neyestanak | Revised and Submitted for Review | 10 November 2026 |
 
-Risk owners remain responsible for reporting material changes in risk exposure to the Lead Project Manager.
+The Project Sponsor's verbal endorsement of Project Genesis does not constitute formal approval of this Schedule Baseline.
 
----
+This document will become the authorized Schedule Baseline only after:
 
-## 11. Schedule Performance and Completion Criteria
+- Activity durations have been reviewed and validated.
+- The working calendar has been confirmed.
+- Resource assignments and availability have been assessed.
+- Material dependencies have been reviewed.
+- The project start and target completion dates have been established.
+- The Project Sponsor or formally authorized representative has recorded approval.
 
-Project Genesis will be considered schedule-complete when:
+Until then, this document is a proposed schedule for planning and review, not an authorized commitment to specific dates or delivery deadlines.
 
-- The approved project deliverables have reached their documented completion and acceptance stages.
-- The agreed milestone requirements have been satisfied or formally approved exceptions have been recorded.
-- Five formal client proposals have been dispatched and their evidence retained.
-- Technical and operational handover requirements have been completed.
-- Outstanding schedule-related issues have been assigned owners and follow-up dates.
-- The Project Closeout Report has been prepared.
-- The Project Sponsor or authorized delegate has formally approved project closure.
-
-The planned eight-week duration is a target, not a guarantee of commercial, operational, or regulatory outcomes.
-
-Any decision to extend or revise the duration must follow the schedule change-control process.
-
----
-
-## 12. Document Control and Approval
-
-### 12.1 Approval Record
-
-| Role | Name | Approval Action | Date |
-|---|---|---|---|
-| Project Sponsor | To be confirmed | Pending Approval | To be recorded |
-| Lead Project Manager | Masoud | Prepared and Submitted for Review | 6 November 2026 |
-
-### 12.2 Revision History
+### 11.2 Revision History
 
 | Version | Date | Author | Description of Change | Status |
 |---|---|---|---|---|
-| 1.0 | 6 November 2026 | Lead Project Manager | Initial Schedule Baseline document, including activity sequencing, duration estimates, resource assignments, milestone plan, preliminary critical path considerations, and schedule control procedures. | Draft — Review Pending |
+| 1.0 | 6 November 2026 | Project Manager | Initial Project Schedule Baseline prepared with preliminary activity durations, planned weekly windows, milestones, dependencies, and resource considerations. | Superseded |
+| 1.1 | 10 November 2026 | Project Manager | Revised to identify Bridge of Tomorrow as the implementing organization; align Project Manager and Sponsor terminology with updated governance documents; reconcile activity sequencing and predecessor relationships with Scope Baseline GEN-SBL-001 v1.1 and RACI Matrix GEN-STK-001 v2.1; clarify provisional duration estimates, unconfirmed resources, working-calendar assumptions, schedule approval status, and critical-path limitations. | Revised Draft — Formal Approval Pending |
 
-### 12.3 Approval Statement
+### 11.3 Document Maintenance
 
-This document becomes the approved Project Schedule Baseline only after the Project Sponsor or formally authorized delegate has recorded approval.
+The Project Manager is responsible for maintaining this document and ensuring that subsequent schedule revisions remain consistent with:
 
-Until approval is recorded, the schedule remains a proposed planning baseline and must not be treated as independent authorization to incur expenditure or undertake work beyond existing delegated authority.
+- Project Charter (GEN-CH-001).
+- Stakeholder Register & RACI Matrix (GEN-STK-001).
+- Scope Baseline (GEN-SBL-001).
+- Risk Register (GEN-RSK-001).
+- Communication Management Plan (GEN-COM-001).
+- Budget Baseline (GEN-BGT-001).
+- Relevant company resource assignments and authorization records.
 
-Material changes to the approved schedule must follow the project's change-control procedure.
+The schedule must be reviewed whenever a material change affects activity durations, dependencies, resources, milestones, project completion, or approved project baselines.
 
 ---
 
-## 13. Reference Resources
+## 12. Reference Documents
 
-### 13.1 Primary Learning Resource
+### 12.1 Internal Project Documents
 
-**Google Project Management Professional Certificate — Coursera**
+1. **Project Charter — Project Genesis (GEN-CH-001)**  
+   `01-initiation/01-project-charter.md`
 
-https://www.coursera.org/professional-certificates/google-project-management
+2. **Stakeholder Register & RACI Matrix — Project Genesis (GEN-STK-001)**  
+   `01-initiation/02-stakeholder-and-raci-register.md`
 
-Educational resource informing practical scheduling, activity sequencing, estimation, dependency management, and project coordination methods.
+3. **Scope Baseline — Project Genesis (GEN-SBL-001)**  
+   `02-planning/01-scope-baseline.md`
 
-### 13.2 Related Project Documents
+4. **Risk Register — Project Genesis (GEN-RSK-001)**  
+   `02-planning/02-risk-register.md`
 
-1. Project Charter — GEN-CH-001.  
-   `01-initiation/project-charter.md`
+5. **Communication Management Plan — Project Genesis (GEN-COM-001)**  
+   `02-planning/03-communication-plan.md`
 
-2. Stakeholder Register & RACI Matrix — GEN-STK-001.  
-   `01-initiation/stakeholder-register.md`
+6. **Budget Baseline — Project Genesis (GEN-BGT-001)**  
+   `02-planning/budget-baseline.md`
 
-3. Scope Baseline — GEN-SBL-001.  
-   `02-planning/scope-baseline.md`
+### 12.2 Schedule Management Reference
 
-4. Risk Register — GEN-RSK-001.  
-   `02-planning/risk-register.md`
+The activity schedule is prepared using a WBS-based planning approach, activity duration estimation, logical dependency identification, milestone planning, schedule monitoring, and formal change control.
 
-5. Communication Management Plan — GEN-COM-001.  
-   `02-planning/communication-management-plan.md`
+The document is a project-specific schedule management artifact and does not claim formal certification or compliance with an external project management standard.
 
 ---
 
