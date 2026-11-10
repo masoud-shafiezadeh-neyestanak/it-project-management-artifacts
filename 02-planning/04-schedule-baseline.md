@@ -21,7 +21,7 @@
 | **Preliminary Budget Estimate** | USD 1,500–2,500 (approximately OMR 570–960); subject to detailed estimation and approval |
 | **Sponsor Endorsement Status** | Verbal endorsement received; formal designation and written approval pending |
 | **Related Documents** | Project Charter (GEN-CH-001); Stakeholder Register & RACI Matrix (GEN-STK-001); Scope Baseline (GEN-SBL-001); Risk Register (GEN-RSK-001); Communication Management Plan (GEN-COM-001) |
-| **Repository Location** | `02-planning/schedule-baseline.md` |
+| **Repository Location** | `02-planning/04-schedule-baseline.md` |
 
 ---
 
