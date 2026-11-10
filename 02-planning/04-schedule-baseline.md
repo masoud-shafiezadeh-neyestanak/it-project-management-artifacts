@@ -677,7 +677,7 @@ The schedule must be reviewed whenever a material change affects activity durati
    `02-planning/03-communication-plan.md`
 
 6. **Budget Baseline — Project Genesis (GEN-BGT-001)**  
-   `02-planning/budget-baseline.md`
+   `02-planning/05-budget-baseline.md`
 
 ### 12.2 Schedule Management Reference
 
