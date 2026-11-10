@@ -857,7 +857,7 @@ The document must be updated whenever material changes affect project cost estim
    `02-planning/03-communication-plan.md`
 
 6. **Schedule Baseline — Project Genesis (GEN-SCH-001)**  
-   Schedule planning document maintained in the Planning repository.
+    `02-planning/04-schedule-baseline.md`
 
 ### 16.2 External Pricing and Cost Management Sources
 
