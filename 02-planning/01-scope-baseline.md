@@ -542,10 +542,12 @@ The following project documents provide the governance and planning context for 
    `02-planning/03-communication-plan.md`
 
 5. **Schedule Baseline — Project Genesis (GEN-SCH-001)**  
-   Planned / under review.
+   `02-planning/04-schedule-baseline.md`  
+   Status: Version 1.1 — Revised Draft; Formal Approval Pending
 
 6. **Budget Baseline — Project Genesis (GEN-BGT-001)**  
-   Planned / under review.
+   `02-planning/05-budget-baseline.md`  
+   Status: Version 1.1 — Revised Draft; Formal Approval Pending
 
 ---
 
