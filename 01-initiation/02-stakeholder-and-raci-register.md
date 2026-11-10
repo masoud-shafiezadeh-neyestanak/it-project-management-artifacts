@@ -14,7 +14,7 @@
 | **Last Updated** | 9 November 2026 |
 | **Project Management Approach** | Hybrid Project Management — structured governance combined with iterative and Agile delivery practices |
 | **Sponsor Endorsement Status** | Verbal endorsement received; formal designation and written approval pending |
-| **Related Documents** | `01-initiation/01-project-charter.md` (GEN-CH-001); `02-planning/01-scope-baseline.md` (GEN-WBS-001); `02-planning/02-risk-register.md` (GEN-RSK-001); `02-planning/03-communication-plan.md` (GEN-COM-001) |
+| **Related Documents** | `01-initiation/01-project-charter.md` (GEN-CH-001); `02-planning/01-scope-baseline.md` (GEN-SBL-001); `02-planning/02-risk-register.md` (GEN-RSK-001); `02-planning/03-communication-plan.md` (GEN-COM-001) |
 
 ---
 
@@ -647,7 +647,7 @@ Material changes to stakeholder responsibilities, accountability, or decision au
 The Project Manager is responsible for maintaining this document and ensuring that subsequent changes remain consistent with:
 
 - Project Charter (GEN-CH-001).
-- Scope Baseline (currently published as GEN-WBS-001).
+- Scope Baseline (GEN-SBL-001).
 - Risk Register (GEN-RSK-001).
 - Communication Management Plan (GEN-COM-001).
 - Schedule and Budget Baselines, once reviewed and approved.
