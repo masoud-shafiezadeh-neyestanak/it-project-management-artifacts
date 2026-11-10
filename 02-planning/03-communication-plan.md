@@ -829,10 +829,10 @@ The plan must be reviewed whenever material changes affect communication require
    `02-planning/02-risk-register.md`
 
 5. **Schedule Baseline — Project Genesis (GEN-SCH-001)**  
-   `02-planning/schedule-baseline.md`
+   `02-planning/04-schedule-baseline.md`
 
 6. **Budget Baseline — Project Genesis (GEN-BGT-001)**  
-   `02-planning/budget-baseline.md`
+   `02-planning/05-budget-baseline.md`
 
 ### 10.2 Regulatory Reference Sources
 
