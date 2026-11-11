@@ -81,3 +81,33 @@ Schedule Baseline — GEN-SCH-001
 Budget Baseline — GEN-BGT-001
 
 Quality Management Plan — GEN-QMP-001
+
+5. Governance and Entry Conditions
+
+Before execution activities begin, the project team must establish the necessary authorization and readiness conditions, including:
+
+Formal approval of applicable project documents and baselines.
+
+Confirmation of stakeholder responsibilities and resource availability.
+
+Validation of relevant budget estimates and procurement requirements.
+
+Confirmation of applicable legal, operational, and technical requirements.
+
+Agreement on deliverable review and acceptance responsibilities.
+
+No execution activity or financial commitment is authorized by the creation of this directory.
+
+6. Documentation Principles
+
+Execution records will be maintained with attention to:
+
+Traceability to the approved Scope Baseline and WBS.
+
+Clear ownership and accountability.
+
+Version control and change documentation.
+
+Evidence-based progress reporting.
+
+Quality review and deliverable acceptance records.
