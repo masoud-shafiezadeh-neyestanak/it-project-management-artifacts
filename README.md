@@ -90,7 +90,7 @@ Establishes the scope, schedule, cost, risk, communication, and quality arrangem
 
 The planning documents are published as working project records. Their publication does not establish formal Sponsor approval of the project charter, scope, schedule, budget, or other management plans. Formal authorization and baseline approval must be evidenced through the designated project approval records.
 
-### 03. Execution — `/03-execution`
+### [03. Execution — `/03-execution`](03-execution/README.md)
 
 This phase will support implementation of the approved project scope through coordinated technical activities, operational workflows, and development of project deliverables.
 
