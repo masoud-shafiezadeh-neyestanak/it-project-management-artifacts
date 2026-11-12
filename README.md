@@ -60,7 +60,7 @@ The repository is organized around the major project management phases. The docu
 
 Publication of a document does not by itself mean that the document has been formally approved or that the corresponding project work has been completed.
 
-### 01. Initiation — `/01-initiation`
+### [01. Initiation — `/01-initiation`](01-initiation/)
 
 Establishes the project foundation, governance context, stakeholder responsibilities, and authorization arrangements.
 
