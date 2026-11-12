@@ -69,7 +69,7 @@ Establishes the project foundation, governance context, stakeholder responsibili
 - [Project Charter — GEN-CH-001](01-initiation/01-project-charter.md) — Defines the project purpose, business case, objectives, high-level scope, assumptions, constraints, governance structure, and authorization requirements.
 - [Stakeholder Register & RACI Matrix — GEN-STK-001](01-initiation/02-stakeholder-and-raci-register.md) — Identifies project stakeholders, records their interests and expectations, and defines responsibilities and accountability across project work packages.
 
-### 02. Planning & Governance — `/02-planning`
+### [02. Planning & Governance — `/02-planning`](02-planning/)
 
 Establishes the scope, schedule, cost, risk, communication, and quality arrangements needed to plan and control project delivery.
 
